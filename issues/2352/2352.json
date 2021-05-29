@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientCaption",
+      "DisplayName": "GradientCaption"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-08-20T14:22:34.53-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:47.71-08:00",
+    "PlannedForRelease": "1.x - 4 English Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-08-20T13:45:35.197-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "ImageKey cannot be set back to none GradientCaption",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 2352
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

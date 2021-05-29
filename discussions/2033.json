@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "6385",
+    "ThreadId": "2033",
+    "Html": "\r\nHi -<br /><br />I'm trying to use GlassBackgroundRender to render, well, a glass background - for a TreeNode in an owner drawn tree view. My code is<br /><br />Ascend.Windows.Forms.GradientBackgroundRender rnd = new Ascend.Windows.Forms.GradientBackgroundRender();<br />rnd.CornerRadius = new Ascend.CornerRadius(5);<br />rnd.RenderMode = Ascend.Windows.Forms.RenderMode.Glass;<br />rnd.AntiAlias = true;<br />rnd.GradientLowColor = SystemColors.InactiveCaption;<br />rnd.GradientHighColor = SystemColors.Window;<br />rnd.Render(new PaintEventArgs(e.Graphics, e.Bounds));<br /><br />Unfortunately, it doesn't render anything - the docs don't explain much here, but maybe one of you can help out?<br /><br />Thanks in advance, <br /><br />Phil<br />",
+    "PostedDate": "2006-10-26T04:01:56.5-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6411",
+    "ThreadId": "2033",
+    "Html": "\r\nThis class was factored out and should have been removed. I will make sure to remove it in future releases. I had it checked off on my housekeeping document but apparently didn’t remove it.<br /><br />What you need to use is GradientBackgroundRender and set the RenderMode property to RenderMode.Glass. This will result in a glass render based on your properties. There is little difference in how a regular gradient render and a glass render is done internally and it ran far faster in a single class.<br /><br />Sorry for the confusion.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-10-26T09:56:41.997-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6418",
+    "ThreadId": "2033",
+    "Html": "\r\nThanks for the information - however, I replaced that GlassBackgroundRender instance with a GradientBackgroundRender one, but it still won't paint. The rest of my code above remains the same. Are there any properties that must be set?<br /><br />Phil<br />",
+    "PostedDate": "2006-10-26T10:47:23.503-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6586",
+    "ThreadId": "2033",
+    "Html": "\r\nSorry, I don’t want you to think I’m blowing your question off. I’m in the final sprint before final unit testing on a project in my day job. It’s taking up more time than I hoped.<br /><br />Off hand I don’t see anything missing from your code. I will take a better look later this week. <br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2006-10-30T09:25:36.06-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6787",
+    "ThreadId": "2033",
+    "Html": "\r\nThanks for your help, I really appreciate that! <br /><br />Phil<br />",
+    "PostedDate": "2006-11-01T23:09:46.907-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientSplitter",
+      "DisplayName": "GradientSplitter"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-10-26T10:46:37.737-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:54.53-08:00",
+    "PlannedForRelease": "1.5.x December CTP Alpha",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "Medium",
+      "Severity": 100,
+      "Id": 2
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-10-26T10:30:26.15-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Bumps do not center on resize of GradientSplitter.",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 4820
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

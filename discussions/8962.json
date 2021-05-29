@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "29257",
+    "ThreadId": "8962",
+    "Html": "\r\nI've come across a problem with the Navigation Pane when the form that it's sitting on is minimized and then restored. The Navigation Pane seems to collapse (in terms of width) and needs to be manually resized by the user. <br /><br />Has anyone come across this problem before, and is there a work-around?<br /><br />Thanks,<br />Chris<br />",
+    "PostedDate": "2007-04-07T19:07:25.793-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "29671",
+    "ThreadId": "8962",
+    "Html": "\r\nI'm having the exact same problem. Is this a problem with the control or an implementation issue?<br /><br />Was thinking you could register for minimize / maximise event and manually restore the size of the control but this is hardly ideal.<br />",
+    "PostedDate": "2007-04-11T19:03:57.277-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

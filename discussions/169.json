@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "527",
+    "ThreadId": "169",
+    "Html": "\r\nThe code does not have a lot of things that make it .NET 2.0 only. If there any interest in a .NET 1.1 version?<br />",
+    "PostedDate": "2006-06-09T23:38:53.643-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "847",
+    "ThreadId": "169",
+    "Html": "\r\nHi.<br /><br />I wonder if you guy would be interested in having an auto-complete textbox?<br />",
+    "PostedDate": "2006-06-27T22:41:13.78-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "859",
+    "ThreadId": "169",
+    "Html": "\r\nPossibly,<br />I need to dig into MSBee and see how hard it is to support both 1.1 and 2.0 from the same code base. I have added a lot of attributes lately that are 2.0 only. <br />",
+    "PostedDate": "2006-06-28T06:41:06.95-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1497",
+    "ThreadId": "169",
+    "Html": "\r\nHi Scorn,<br /><br />Excellent work! I love these controls. <br /><br />We have some applications which work on 1.1 I would love to use these in one of them.. I was wondering if anything has developed on this front.<br /><br />Keep up the good work. I will definately use these in the future projects I do on 05..<br /><br />Best regards,<br />Husain<br />",
+    "PostedDate": "2006-07-23T00:21:42.263-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1511",
+    "ThreadId": "169",
+    "Html": "\r\nI think we will be adding .Net 1.1 support after version 1.0 of the controls is released. We have added more .Net 2.0 specific code than I had originally thought. It makes more sense to finish the controls and then do a back port to 1.1. If we try to support both in the same code base I’m afraid it will bring development to a crawl. I do think at least for the moment we would have a larger user base if we supported 1.1. <br /><br />Thanks,<br />scorn<br />",
+    "PostedDate": "2006-07-24T09:09:04.78-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

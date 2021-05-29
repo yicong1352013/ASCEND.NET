@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "33959",
+    "ThreadId": "10480",
+    "Html": "\r\nIs the project alive? Is the project still under active development? When will Ascendt 1.5 will be release?<br />Thank you in advance for your answers.<br />",
+    "PostedDate": "2007-05-19T16:30:54.527-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "37233",
+    "ThreadId": "10480",
+    "Html": "\r\nI wonder the same thing, It would be a pity that such a project gets abandoned (as it seems it is) specially with some important issues not resolved yet like the Text property that is not available in the designer mode!<br /><br />The examples look nice but have a big failure, these guys do all the coding in the .Designer.cs file!!! that is supposed to be for automatically generated code. Then the actual form is completely devoid of logic.<br /><br />As a result you cannot change the captions of the pane and pages unless you modify the .Designer.cs file (bad design practice) and no clear way of seeing how the application reacts to which events.<br />",
+    "PostedDate": "2007-06-17T09:00:31.76-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "47858",
+    "ThreadId": "10480",
+    "Html": "\r\nSure looks like the project is abandoned. I really liked the navigation panel. It would be nice to have it show the header/pane view on the right of the button.<br /><br />Wonder if version 1.5 will be released?<br /><br />",
+    "PostedDate": "2007-09-05T06:15:04.09-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "52890",
+    "ThreadId": "10480",
+    "Html": "\r\nGuys,<br /><br />I'm considering doing additional work with the project at this point. <br />The consulting company I work for does not do open source so all the work I do with Ascend is done on my own time, hardware, software, etc. <br /><br />I ask this modestly, do you think the controls are good enough that if I put a donate link on the site that I would get any donations? I have no grand visions of being able to quit my day job, but a little income would go a long way towards explaining to my budget strapped wife why I work so many hours for free.<br /><br />I’m not saying I won’t be doing any additional controls without donations. I’m just looking into possibilities.<br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2007-10-11T12:21:51.527-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "57255",
+    "ThreadId": "10480",
+    "Html": "\r\nSure! Why not? Current version of controls is really good. And we all are looking forward to try out next version. So do it!<br />PS. Thanks for your time!<br />",
+    "PostedDate": "2007-11-08T04:43:59.827-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "57677",
+    "ThreadId": "10480",
+    "Html": "\r\nThis is an awesome project!  I don't see why you shouldn't receive donations.<br /><br />Keep up the good work.<br /><br />Regards,<br /><br />Bryan<br /><br /><div class=\"quote\" style=\"border: dotted .1em #aaa; border-left: none; border-right: none; font-style: italic; margin: 1em 0em 2.5em 3em;padding: .2em;\"><br />scorn wrote:<br />Guys,<br /><br />I'm considering doing additional work with the project at this point. <br />The consulting company I work for does not do open source so all the work I do with Ascend is done on my own time, hardware, software, etc. <br /><br />I ask this modestly, do you think the controls are good enough that if I put a donate link on the site that I would get any donations? I have no grand visions of being able to quit my day job, but a little income would go a long way towards explaining to my budget strapped wife why I work so many hours for free.<br /><br />I’m not saying I won’t be doing any additional controls without donations. I’m just looking into possibilities.<br /><br />Thanks,<br />Scott<br /><br /><br /></div>",
+    "PostedDate": "2007-11-10T08:59:00.97-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

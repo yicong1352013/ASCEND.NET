@@ -1,0 +1,65 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "Install",
+      "DisplayName": "Install"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-09-03T17:29:03.07-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "The setup programs displays the chinese screens on a german system. this might be caused by a default to chinese instead of english. an english default would obviously be more helpful and less confusing.",
+    "LastUpdatedDate": "2013-05-16T02:19:12.33-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-08-29T02:40:12.973-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Setup defaults to chinese on non-us systems",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 2689
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "The Chinese install is compiled from a branch of the main code. The only resources in the English install are English. I'm not sure how Chinese could show up. Members of the project not using US versions of Windows report that English is shown by default on their install. Are you sure that the Chinese install was not downloaded by mistake?",
+      "PostedDate": "2006-08-29T16:00:23.77-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "The German translation is starting now. We will make sure it is correct.",
+      "PostedDate": "2006-09-03T17:28:51.087-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-09-03T17:29:03.07-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:15.64-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-16T02:19:12.33-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "Id": "52826",
+    "ThreadId": "16308",
+    "Html": "<br />All,<br /><br />Sorry I’ve been away from the project for so long. I work for a consulting company and they have had me billed at more than 100% for about 1 ½ years now. The major project I was working on is now out and will be translated into other languages for the next year or so. I’m hoping that this will give me some time to work on the Ascend controls again. I can’t guarantee that I won’t just be put on another endless hour project but I’m pushing hard to get a more reasonable schedule at work.<br /><br />Before I spend the time on this project I just want to make sure there is a need and want for additional Ascend controls. If you would please let me know what you think I would appreciate it.<br /><br />Thanks,<br />Scott Corn (scorn)<br />",
+    "PostedDate": "2007-10-11T06:44:22.467-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "52846",
+    "ThreadId": "16308",
+    "Html": "\r\nThe design of the controls are great. I am using the Ascend.NET controls in my project but also I am using dotnetbar trial, I am tring to not use much of these dotnetbar control while I find a opensource solucion, I hope you can help us creating a Ribbon bar for Ascent.NET.<br /><br />I recommended Ascend.net to a Friend and He was using a mix beetween Ascend.NET and another opensource controls for the Ribbon bar but that Ribbon is not so good.<br /><br />I you can to continue the project will be great.<br />Thanks<br />",
+    "PostedDate": "2007-10-11T08:28:10.29-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "58235",
+    "ThreadId": "16308",
+    "Html": "\r\nAbsolutely!  Unequivocally!  The world is in dire need of quality .Net WinForms controls, and Ascend seems to be off to a good start.<br />",
+    "PostedDate": "2007-11-14T11:29:03.333-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "58300",
+    "ThreadId": "16308",
+    "Html": "\r\nI would love to see more done with the project.  This is one of the best open sources Outlook bars I've seen.  I can't wait to see what else comes from the project.<br />",
+    "PostedDate": "2007-11-14T19:39:55.403-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "61194",
+    "ThreadId": "16308",
+    "Html": "\r\nAny continuation of these controls would be great--the one thing I'd especially like to see is for your splitter bar to be a functional splitter.<br />",
+    "PostedDate": "2007-12-04T12:57:38.393-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "63886",
+    "ThreadId": "16308",
+    "Html": "\r\nA continuation of this project would be excellent. I'd Like to see to see a form controls (title bar rendering etc), Tab control and a purpose built TabbedMdi.<br /><br />",
+    "PostedDate": "2007-12-18T12:22:13.267-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "64019",
+    "ThreadId": "16308",
+    "Html": "\r\nWelcome back Scott!<br />I love this package, and would like to see it continued...<br />The thing I am missing atm is the Ribbon, I also tried another one for the ribbon but it doesn't work well and gives more problems than advantages.<br /><br />And the ribbon is a must have for this package, it will certainly boost the usage/downloads.<br /><br />Thanks for the great work you've put into this,<br />Nick<br />",
+    "PostedDate": "2007-12-18T23:43:58.863-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "67890",
+    "ThreadId": "16308",
+    "Html": "\r\nScott,<br />best set of controls I've seen.  Definetely worth some contributions for your work.<br /><br /><div class=\"quote\" style=\"border: dotted .1em #aaa; border-left: none; border-right: none; font-style: italic; margin: 1em 0em 2.5em 3em;padding: .2em;\"><br />scorn wrote:<br /><br />All,<br /><br />Sorry I’ve been away from the project for so long. I work for a consulting company and they have had me billed at more than 100% for about 1 ½ years now. The major project I was working on is now out and will be translated into other languages for the next year or so. I’m hoping that this will give me some time to work on the Ascend controls again. I can’t guarantee that I won’t just be put on another endless hour project but I’m pushing hard to get a more reasonable schedule at work.<br /><br />Before I spend the time on this project I just want to make sure there is a need and want for additional Ascend controls. If you would please let me know what you think I would appreciate it.<br /><br />Thanks,<br />Scott Corn (scorn)<br /><br /><br /></div>",
+    "PostedDate": "2008-01-14T14:17:22.66-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "67959",
+    "ThreadId": "16308",
+    "Html": "\r\nHello Scott,<br />it's great that your are back. I really love your controls.<br />But meanwhile I've switched to the Krypton Toolkit (<a href=\"www.componentfactory.com\" class=\"externalLink\">www.componentfactory.com<span class=\"externalLinkIcon\" style=\"font-family:Consolas, Courier New, Courier, Monospace;\"></span></a>) which is free and really, really great. It will be hard work for you to beat these controls. The Krypton Toolkit is a complete suite to create Office 2007 style applications. They also sell a ribbon for a low fee.<br />If you can manage to implement the same functionality I'll be with you again. Maybe I can support you with a few additional controls.<br /><br />Kind regards, Tom<br />",
+    "PostedDate": "2008-01-15T00:01:02.84-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

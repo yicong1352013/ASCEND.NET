@@ -1,0 +1,65 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "NavigationPane",
+      "DisplayName": "NavigationPane"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-07-16T04:24:48.983-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:02:07.063-08:00",
+    "PlannedForRelease": "1.x - 2 Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-07-13T13:00:40.3-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add DeselectNavigationPage(NavigationPanePage page) method to NavigationPane",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 0,
+    "Id": 927
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Please use the DeselectNavigationPage(int index) as the core of this new method.\n\nDeselectNavigationPage(NavigationPanePage page)\n{\n  //the code needed to determine the index\n  this.DeselectNavigationPage(index)\n}",
+      "PostedDate": "2006-07-14T06:06:02.34-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "You could also use the DeselectNavigationPage(string key) method as the core. I just want to make sure that only 1 method does the actual moving of button focus.",
+      "PostedDate": "2006-07-14T06:16:29.407-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "Done",
+      "PostedDate": "2006-07-16T04:24:48.983-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-16T02:19:46.533-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2017-11-27T13:02:07.063-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

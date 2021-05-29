@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "NavigationPane",
+      "DisplayName": "NavigationPane"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-07-01T13:03:51.563-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:29.04-08:00",
+    "PlannedForRelease": "1.x - 1 Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-06-30T20:43:35.34-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Hide Size property from designer NavigationPanePage",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 719
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

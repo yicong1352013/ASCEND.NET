@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientNavigationButton",
+      "DisplayName": "GradientNavigationButton"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-08-05T14:20:07.617-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Shishir,\nYou may want to do this last. I'm not sure why the default value is not set. It inherits this property. I may have just over looked something but it may be a deeper problem.\n \nThanks,\nScott",
+    "LastUpdatedDate": "2017-11-27T13:02:06.737-08:00",
+    "PlannedForRelease": "1.x - 3 Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-07-02T15:08:13.127-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Set default value attribute to none on ImageKey on GradientNavigationButton",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 746
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

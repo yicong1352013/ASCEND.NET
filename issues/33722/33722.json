@@ -1,0 +1,50 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "The components are in the toolbox but they're not working or showing up on the Windows form.\n\nHelp.\n\n-Andrea",
+    "LastUpdatedDate": "2013-02-14T12:12:02.603-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2013-01-30T09:52:13.623-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Components Not Showing or Working",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 33722
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "How do I fix this bug",
+      "PostedDate": "2013-01-30T09:59:24.123-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:02.603-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

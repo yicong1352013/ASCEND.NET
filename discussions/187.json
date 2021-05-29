@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "561",
+    "ThreadId": "187",
+    "Html": "\r\nI'm sitting here thinking about how to create a help file for the controls and how much work it is. I wish someone would pick up development of NDoc. I loved how easy it was to create VS 2003 help files with it. I think I read that the original developers health had failed.<br /><br />Does anyone know of any equivalent that works with VS 2005 ?<br />",
+    "PostedDate": "2006-06-14T19:58:05.593-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "677",
+    "ThreadId": "187",
+    "Html": "\r\nhttp://jonas.lagerblad.com/blog/?p=4<br /><br />Seems to work just fine. <br />",
+    "PostedDate": "2006-06-21T03:55:29.973-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "678",
+    "ThreadId": "187",
+    "Html": "\r\nHmmm, <br /><br />Actually it seems to be: <br /><br />http://jonas.lagerblad.com/blog/?p=5<br />",
+    "PostedDate": "2006-06-21T03:56:24.597-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "683",
+    "ThreadId": "187",
+    "Html": "\r\nThank you<br /><br />I'll give it a try. Help files are so important but just so much work.<br />",
+    "PostedDate": "2006-06-21T09:17:36.767-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientExplorerPane",
+      "DisplayName": "GradientExplorerPane"
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "GradientExplorerPane control.",
+    "LastUpdatedDate": "2013-02-14T12:12:07.03-08:00",
+    "PlannedForRelease": "1.5.x December CTP Alpha",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-12-18T14:12:22.987-08:00",
+    "Status": {
+      "Name": "Active",
+      "Id": 2
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add GradientExplorerPane class to Ascend.Windows.Forms",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 1,
+    "Id": 6608
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

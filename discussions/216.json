@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "648",
+    "ThreadId": "216",
+    "Html": "\r\nI added AllowPartiallyTrustedCallers to some of the the assemblies. <br /><br />I would normally have put this in to begin with but it presents a problem <br />with the action list classes. They do not AllowPartiallyTrustedCallers. To do the security correctly this forces the action list classes into another assembly. (Ascend.Design) This is how Microsoft does it also.<br /><br />The problem this causes is the design assembly must be referenced by the controls (Ascend.Windows.Forms) and the controls must be referenced in the design assembly.<br />A circular reference...Ack<br /><br />To allow the circular reference to compile normally in Visual Studio all assembly references except those in Ascend.Windows.Forms are referenced directly from the GAC.<br /><br />To do your initial compile drag the 4 assemblies in Solution Items into the assembly directory under your Windows directory. Once this is done you can compile as normal.<br /><br />I need to look into MSBuild rules a little more…<br /><br />Thanks<br />",
+    "PostedDate": "2006-06-19T19:29:40.727-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

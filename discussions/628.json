@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1947",
+    "ThreadId": "628",
+    "Html": "\r\nI’m trying to implement the RightToLeft property in the controls but I have a question. I know with English fonts setting the RightToLeft property to true will just make the text alignment align to the opposite side that it is set to. If RightToLeft is true and text alignment is left the text will align right. But my question is does it also mirror the entered text? In English it does not. Text entered “abc” will still display “abc” not “cba”. In actual right to left scripts is this the case? <br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-08-05T10:20:20.847-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1989",
+    "ThreadId": "628",
+    "Html": "\r\nI put this in place with everything that I think should be done. Please let me know if it is not right.<br />",
+    "PostedDate": "2006-08-07T05:55:35.743-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

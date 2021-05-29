@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "NavigationPane",
+      "DisplayName": "NavigationPane"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-09-24T15:55:10.59-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:50.783-08:00",
+    "PlannedForRelease": "1.x - 5 English Release Candidate",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-09-21T18:53:34.013-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "NavigationPanePage does not resize correctly when button is hidden",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 3538
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "1162",
+    "ThreadId": "374",
+    "Html": "\r\nI really like the new \"glass\" look of the gradient controls in Office 2007. From what I can tell it applies 2 gradient fills as a base and sometimes an additional gradient in the center. I think I will add this as a gradient style in version 1.5. Does this sound like something that developers would like?<br />",
+    "PostedDate": "2006-07-07T06:45:49.727-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1210",
+    "ThreadId": "374",
+    "Html": "\r\nI use \"glass\" effect in my application. Maybe, i can help you - http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=7858DBB6-6F4A-4A9D-B1B4-03C73AA16D15.<br />",
+    "PostedDate": "2006-07-09T17:59:26.643-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1214",
+    "ThreadId": "374",
+    "Html": "\r\nThat is a very nice control. I've emailed you at the address shown in the profile at gotdotnet.<br />",
+    "PostedDate": "2006-07-09T20:08:47.457-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1220",
+    "ThreadId": "374",
+    "Html": "\r\nYes, it's nice control, but it isn't my.<br />",
+    "PostedDate": "2006-07-10T03:56:40.86-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1225",
+    "ThreadId": "374",
+    "Html": "\r\nOK, sorry for the misunderstanding.<br /><br />Are you saying maybe you can help by joining the project or help by pointing me to how someone has done this? Either way thank you. :-)<br /><br />",
+    "PostedDate": "2006-07-10T06:32:53.573-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "12917",
+    "ThreadId": "374",
+    "Html": "\r\nMicrosoft have a good document with design guidelines for Ribbon controls.<br /><br />http://msdn2.microsoft.com/en-us/office/aa973809.aspx<br />",
+    "PostedDate": "2007-01-29T09:49:47.323-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

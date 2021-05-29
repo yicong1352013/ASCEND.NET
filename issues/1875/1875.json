@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientNavigationButton",
+      "DisplayName": "GradientNavigationButton"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-08-10T09:51:01.66-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:41.577-08:00",
+    "PlannedForRelease": "1.x - 4 English Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-08-10T06:13:10.21-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add Deselected event to GradientNavigationButton",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 0,
+    "Id": 1875
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

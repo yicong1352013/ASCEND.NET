@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientLine",
+      "DisplayName": "GradientLine"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-08-01T11:09:26.967-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:38.763-08:00",
+    "PlannedForRelease": "1.x - 3 Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-07-31T20:15:01.957-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Flip high low gradient colors on right to left property change on GradientLine",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 0,
+    "Id": 1489
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

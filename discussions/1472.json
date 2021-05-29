@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "4796",
+    "ThreadId": "1472",
+    "Html": "\r\nI just started using the Ascend.Net controls.  I have a Windows application where a GradientPanel covers the entire main form.  It's anchored to all four edges and AutoScroll is turned on.  <br /><br />When I scroll the panel, the graphics get kind of garbled.  The gradient color is there for the most part but horizontal lines are left behind from other controls (textboxes and labels, mostly).  Also, the background behind the labels becomes a solid color.  But if I resize the entire application using the corner of the window, then the gradient goes back to normal.<br /><br />Is there something in code I have to do to repaint when scrolling?<br />",
+    "PostedDate": "2006-09-19T10:27:55.977-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "4797",
+    "ThreadId": "1472",
+    "Html": "\r\nI have seen the same thing in my usage of the control. On one of my systems with a powerful video card I don’t see this. With a normal video card I do see this.  I’m going to try to optimize this in the next version but I figure it will still come down to video card power.<br /><br />The best way around this for now is to put what you are scrolling in another control with a transparent background on the gradient background and just auto scroll that control. This will allow the controls contained to scroll but not scroll the gradient background.<br /><br />Hope this helps.<br /><br />Scorn<br />",
+    "PostedDate": "2006-09-19T10:47:29.727-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "4800",
+    "ThreadId": "1472",
+    "Html": "\r\nThanks for the suggestions.  That seems to work as long as the GradientPanel doesn't cover the entire window and is in a fixed position.  <br /><br />I tried putting the GradientPanel on the MainForm and then having the GradientPanel contain a UserControl with a transparent background that contained the rest of the controls.  I got the same results with that, plus I got a lot of flicker in the GradientPanel.<br /><br />I also tried having the MainForm contain a UserControl that contained a GradientPanel that, in turn, contained a transparent Panel that contained the rest of the controls.  In that case the GradientPanel couldn't be seen at all.  The topmost Panel apparently made the whole thing transparent.<br />",
+    "PostedDate": "2006-09-19T11:44:06.11-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "4802",
+    "ThreadId": "1472",
+    "Html": "\r\nOh, I also just saw this:<br /><br />\"Scrolling and gradient backgrounds (coming soon)<br />   A simple form with a gradient background that scrolls the controls but not the gradient.\"<br /><br />I guess I'll have to wait until that control to do what I want to do.  Great controls, nevertheless.  :)<br />",
+    "PostedDate": "2006-09-19T12:14:34.2-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5268",
+    "ThreadId": "1472",
+    "Html": "\r\nThere is an example for this on the examples page now.<br /><br />http://www.codeplex.com/Wiki/View.aspx?ProjectName=ASCENDNET&amp;title=Examples<br />",
+    "PostedDate": "2006-09-30T19:26:13.843-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

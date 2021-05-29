@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "5832",
+    "ThreadId": "1859",
+    "Html": "\r\nHey,<br /><br />How about something like a combo box, when you click the drop down, it drops down a checkboxlist that you can click multiple items.  Only the first item could appear in the list, or something like that.<br /><br />Brian<br />",
+    "PostedDate": "2006-10-16T17:44:51.217-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5895",
+    "ThreadId": "1859",
+    "Html": "\r\nI've been thinking about a complete set of edit controls lately. I've had a lot of issues with the mask text box and the numeric up down controls in .Net 2.0. I've had to throw both together on regular basis in projects in my day job. I was hoping MS would patch the .Net framework to fix some issues but it looks like their patch is just going to patch Visual Studio. (I don't work for MS so I don't know this for sure) The problems I have are in the framework. It will be early next year before I would start on these but I think I've about made up my mind to do it.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-10-17T17:58:02.453-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

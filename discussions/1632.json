@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "5233",
+    "ThreadId": "1632",
+    "Html": "\r\nSorry, but I failed to check in a bug fix before the RC 1 install was posted. It caused the redraw of the NavigationPane to be incorrect in design mode if a panel was removed. I re-posted the install with this fix in place at 9:45 AM U.S. central time (15:45 GMT). About 55 has downloaded before this  post. The bug does correct it’s self but it was very visible and I didn’t want to leave it this way. Sorry for the issue. If you have downloaded and want this fix please download and install again.<br /><br />Scorn<br />",
+    "PostedDate": "2006-09-29T08:04:23.92-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

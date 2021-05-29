@@ -1,0 +1,58 @@
+[
+  {
+    "Id": "6035",
+    "ThreadId": "1944",
+    "Html": "\r\nI noticed this on two controls so far but its really difficult to add other (non-ascend) controls to a specific container within the ascend control. I could manage it with the navigation control with some effort but the split container I actually had to alter the forms designer code as I couldn't do it through the IDE. Is there a trick to it?<br />",
+    "PostedDate": "2006-10-19T08:53:00.393-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6038",
+    "ThreadId": "1944",
+    "Html": "\r\nI’ve not seen this in my development. <br /><br />What controls are you adding and to what Ascend control(s)?  What version of Visual Studio are you using? I’ll see if I can duplicate it. <br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-10-19T09:32:09.797-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6056",
+    "ThreadId": "1944",
+    "Html": "\r\nI'm running VS 2005.<br />On the gradient split control(horizontal), I wanted to drop a tree view in the bottom panel and a list view in the top and then dock them. When I dragged the controls to thier respective panels it looks like they are added only to the bottom one and I couldn't get any in the top panel. When I actually looked at the designer code they weren't added to the panel at all rather they were added to the cotrol list of the gradient split control and for some odd reason just behaved like they were a part of the bottom panel when docking.<br /><br />",
+    "PostedDate": "2006-10-19T13:30:16.36-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6065",
+    "ThreadId": "1944",
+    "Html": "\r\nSorry, I should have ask more questions.<br /><br />Are you using Ascend version 1.0.0.6 or the latest 1.5.0.7?<br />When you say gradient split control are you talking about GradientSplitBar or the GradientSplitter or the GradientSplitContainer?<br /><br />Thanks,<br />Scorn<br /><br />",
+    "PostedDate": "2006-10-19T17:28:06.01-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6160",
+    "ThreadId": "1944",
+    "Html": "\r\nThose are all great questions scorn...<br /><br />v2.0.50727 (this is build you ftp'd me)<br /><br />GradientSplitContainer<br />",
+    "PostedDate": "2006-10-22T22:57:09.32-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6182",
+    "ThreadId": "1944",
+    "Html": "\r\nSorry, I should have excluded that control when I compiled the framework for you. Sebmafate is working on it for version 1.5 and it is currently incomplete. <br /><br />I do have a gradient splitter control about to a beta level but I'm not sure that Sebmafate will have the split container control ready for the October 1.5 CTP. The splitter is just like the standard splitter in .NET 2.0 but can have the gradient background and bumps like in the navigation pane.<br /><br />Thanks,<br />Scorn<br /><br />",
+    "PostedDate": "2006-10-23T06:20:22.413-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6214",
+    "ThreadId": "1944",
+    "Html": "\r\nNot a problem. I'm sure I can work something out. Thanks.<br />",
+    "PostedDate": "2006-10-23T20:02:21.197-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

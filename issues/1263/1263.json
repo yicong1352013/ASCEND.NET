@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "NavigationPane",
+      "DisplayName": "NavigationPane"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-07-29T08:57:24.373-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:02:07.387-08:00",
+    "PlannedForRelease": "1.x - 3 Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Medium",
+      "Severity": 100,
+      "Id": 2
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-07-22T09:23:53.71-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add ForeColor property to NavigationPanePage",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 0,
+    "Id": 1263
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

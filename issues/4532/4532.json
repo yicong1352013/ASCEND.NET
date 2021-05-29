@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "Install",
+      "DisplayName": "Install"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-10-18T19:37:45.817-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2013-05-16T02:19:01.94-07:00",
+    "PlannedForRelease": "1.5.x December CTP Alpha",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-10-18T18:58:38.153-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add custom bitmaps to Wix install",
+    "Type": {
+      "Name": "Task",
+      "Id": 2
+    },
+    "VoteCount": 0,
+    "Id": 4532
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

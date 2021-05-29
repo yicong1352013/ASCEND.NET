@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientCaption",
+      "DisplayName": "GradientCaption"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-06-17T14:04:47.283-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:23.083-08:00",
+    "PlannedForRelease": "1.0.0.0 Alpha",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-06-11T15:31:27.463-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add text align property on GradientCaption",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 0,
+    "Id": 414
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

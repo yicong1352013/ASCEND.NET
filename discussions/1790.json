@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "5638",
+    "ThreadId": "1790",
+    "Html": "\r\nHey,<br /><br />Toolwindows that are dockable and pinnable (like the property grid, solution explorer, etc.) for VS.NET, where you can pin them, but unpin them, and they collapse into the side (you know what I mean).<br /><br />Thanks.<br />",
+    "PostedDate": "2006-10-11T04:32:43.537-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5717",
+    "ThreadId": "1790",
+    "Html": "\r\nI've not documented it yet but the tabbed MDI control that will be started in version 2 will include this.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-10-12T19:50:52.133-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "7317",
+    "ThreadId": "1790",
+    "Html": "\r\nYou mean like DockPanel Suite? :)<br />http://sourceforge.net/projects/dockpanelsuite/<br />",
+    "PostedDate": "2006-11-10T13:49:50.067-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

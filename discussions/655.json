@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "2041",
+    "ThreadId": "655",
+    "Html": "\r\nI received this from BlackTiger in issues. I put it here in case you don't check the issues for additional notes.<br /><br />When (in my case) NavigationPanelPage was created by code and TreeView was placed by code too then TreeView contents isn't repaint correctly. I have to resize Pane to repaint.<br /><br />I am not able to reproduce this issue. Could you please send some example code?<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-08-08T06:16:06.173-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3006",
+    "ThreadId": "655",
+    "Html": "\r\nI finally found this. It was the same issue as issue 2326. It is fixed in the source code and will be in the next release.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-08-19T19:44:23.503-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

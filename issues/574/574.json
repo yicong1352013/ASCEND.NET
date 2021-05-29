@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GadientAnimation",
+      "DisplayName": "GadientAnimation"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-06-27T18:25:21.173-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:26.293-08:00",
+    "PlannedForRelease": "1.x - 1 Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-06-23T19:15:59.503-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Bitmap 1 pixel short on height GradientAnimation",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 574
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

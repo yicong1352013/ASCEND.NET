@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1700",
+    "ThreadId": "553",
+    "Html": "\r\nI’m going to add a GradientLine control for beta 3. I’ve been using the panel with a height 2 to get the same affect in projects. Last week I was thinking how wasteful of resources this is to have the overhead of a panel when all I want is a line. It will use the same render class as the panel so I’m confident of the stability and I think it will be a handy control. It will not delay the release of beta 3.<br /><br />Thanks,<br />scorn<br />",
+    "PostedDate": "2006-07-30T20:47:11.503-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

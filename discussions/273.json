@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "812",
+    "ThreadId": "273",
+    "Html": "\r\nHi!<br />I just downloaded the documentation, but wasn't able to open it. Could you tell me what document type it is?<br />",
+    "PostedDate": "2006-06-27T08:36:56.183-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "813",
+    "ThreadId": "273",
+    "Html": "\r\nIt is a compiled HTML help file.<br /><br />If you are running XP SP 2 depending on your security settings you may have to right click the file after downloading, select properties and on the General tab press Unblock.<br /><br />SP 2 blocks many files that can execute in some way if they are downloaded from the Internet. <br /><br />Let me know if this does not take care of your issue.<br /><br />Thanks<br />",
+    "PostedDate": "2006-06-27T09:16:53.127-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "816",
+    "ThreadId": "273",
+    "Html": "\r\nAh, thanks for the reply. The problem i had was, that the file didn't have the .chm-ending. It was just \"Ascend.NET\". Renamed it to \"Ascend.NET.chm\" and I can use it.<br />Thanks again :)<br />",
+    "PostedDate": "2006-06-27T10:34:21.217-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

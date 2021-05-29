@@ -1,0 +1,50 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "When adding a range with NavigationPanePages objects to an existing NavigationPane only the first one is used to display all the others.",
+    "LastUpdatedDate": "2013-02-14T12:12:04.727-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2007-03-28T13:41:34.383-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "AddRange with Navigationpanes problem",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 9213
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Dont worry about this, it was my fault, I had problems with the naming of the panes. ",
+      "PostedDate": "2007-03-28T14:00:09.263-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:04.727-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

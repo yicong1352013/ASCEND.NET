@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "525",
+    "ThreadId": "167",
+    "Html": "\r\nWhile we are currently focusing on Visual Studio 2005 as our main focus for the controls I don’t want to exclude other options like SharpDevelop. Earlier version of the controls worked for the most part in SharpDevelop but had a few design issues. I’m not sure if it was the fact that SharpDevelop 2 was a beta or an issue with the control. If anyone is interested in working with SharpDevelop or another IDE and the controls I think it would be a good idea.<br />",
+    "PostedDate": "2006-06-09T07:57:56.4-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "732",
+    "ThreadId": "167",
+    "Html": "\r\nThe earlier design issues seem to be gone now. I’ve not tested extensively but everything worked well with what I have done with SharpDevelop 2.<br />",
+    "PostedDate": "2006-06-22T19:40:45.43-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

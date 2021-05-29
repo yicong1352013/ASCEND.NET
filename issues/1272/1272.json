@@ -1,0 +1,60 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "NavigationPane",
+      "DisplayName": "NavigationPane"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-07-22T14:59:24.463-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:35.44-08:00",
+    "PlannedForRelease": "1.x - 3 Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-07-22T12:25:17.48-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Build Warning(s) in GradientBackgroundRender.cs",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 1272
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Description: CA1502 : Microsoft.Maintainability : DrawSquareBackgound has a cyclomatic complexity of 29. Rewrite or refactor the method to reduce complexity to 25.\nFile: D:\\Personal\\Ascend\\Ascend.Windows.Forms\\GradientBackgroundRender.cs\nLine:  1436\nProject: Ascend.Windows.Forms\n\n",
+      "PostedDate": "2006-07-22T12:25:17.48-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-07-22T14:59:24.463-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-16T02:19:36.823-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2017-11-27T13:01:35.44-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

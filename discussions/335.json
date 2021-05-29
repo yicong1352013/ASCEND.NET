@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1015",
+    "ThreadId": "335",
+    "Html": "\r\nTo install the tools just download and run Ascend.Install.msi and follow the prompts. Visual Studio should be closed while installing.<br /><br />If you have been using alpha 1 keep in mind that you will need to update your project references to point to the Ascend assemblies version 1.0.0.1 . The install will leave the old alpha version 1.0.0.0 in place to keep your projects from breaking. If you have the alpha controls in the Visual Studio toolbox you will also need to remove them and then add the beta 1 controls.The alpha version can be un-installed after you decide you no longer need it.<br /><br />There are no known breaking changes between the alpha and this release.<br /><br />If you downloaded early Sunday and have an error wile adding the controls to the toolbox about not being able to find the design assembly please download the install again and replace your current install. The install that was on the site for the first couple of hours did not properly register this assembly in the GAC. Rabbit was up at 7am his time and caught this. Thank you Rabbit!<br /><br />Thanks,<br />scorn<br /><br />",
+    "PostedDate": "2006-07-02T20:37:43.43-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

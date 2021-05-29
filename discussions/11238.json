@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "36374",
+    "ThreadId": "11238",
+    "Html": "\r\nI know there is GradientNavigationButton but i still need a button control with gradient posibilities and DialogResult. I saw for version1.5 aqua render mode, that could be verry nice on buttons. It's possible to use an image to display as 'gradient', 'surface' or 'background' for button, or to set as pattern ?<br /><br />Thanks,<br />Paul<br />",
+    "PostedDate": "2007-06-11T06:19:33.41-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "36991",
+    "ThreadId": "11238",
+    "Html": "\r\nHere's a set of controls that look nice<br /><br />RibbonMenuButton<br />http://www.codeproject.com/cs/miscctrl/The<i>New</i>RibbonMenuButton.asp<br /><br />RibbonForm, RibbonRoundButton, and FastMenu<br />http://www.codeproject.com/cs/miscctrl/Ribbon<i>Form</i>RoundButton.asp<br /><br />Office2007 panels with fading and opacity<br />http://www.codeproject.com/cs/miscctrl/Office2007_Panels.asp<br /><br />Ribbon Panel Office 2007 style<br />http://www.codeproject.com/cs/miscctrl/Ribbon_Panel.asp<br /><br />office2007 buttons with fading and opacity<br />http://www.codeproject.com/useritems/Office<i>2007</i>Style_Button.asp<br />",
+    "PostedDate": "2007-06-14T16:33:00.2-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

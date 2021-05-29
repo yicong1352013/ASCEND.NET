@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientNavigationButton",
+      "DisplayName": "GradientNavigationButton"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-08-15T14:47:09.667-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "False by default",
+    "LastUpdatedDate": "2017-11-27T13:01:45.57-08:00",
+    "PlannedForRelease": "1.x - 4 English Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-08-15T14:25:51.327-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add ShowBorderOnHighlight property to GradientNavigationButton",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 0,
+    "Id": 2156
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

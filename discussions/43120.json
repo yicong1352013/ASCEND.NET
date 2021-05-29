@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "143323",
+    "ThreadId": "43120",
+    "Html": "<span>I am using sharp develop for developing my application. When I\r\ndrop any control (e.g. Navigation pane) it is getting added to\r\nNon-Visual tray. If I use the control in visual studio it is getting\r\nadded to Visual tray (control area). Are these controls intend to work\r\nwith Visual Studio only? Cannot they work with Sharp Develop? Is there\r\nvisual studio dependency for these controls? Am I missing any\r\ndependency to use these controls to work with Sharp Develop?<br>\r\nI would appreciate If some body can clarify this.  Thanks in advance.  </span>\r\n",
+    "PostedDate": "2008-12-29T06:26:11.8-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

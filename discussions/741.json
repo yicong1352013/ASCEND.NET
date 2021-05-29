@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "2293",
+    "ThreadId": "741",
+    "Html": "<br />All,<br />I updated the NavigationPane designers last night. You will need to drag the ref dlls into your assembly directory before compiling the first time after a get latest from source control.<br /><br /><br />Thanks,<br />Scorn<br /><br />",
+    "PostedDate": "2006-08-14T06:18:58.853-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "2838",
+    "ThreadId": "741",
+    "Html": "\r\nThis is no longer needed. Please see the<br />The reference dlls are no longer needed. :-) <br />post.<br />",
+    "PostedDate": "2006-08-17T06:53:00.32-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

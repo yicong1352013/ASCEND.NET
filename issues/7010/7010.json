@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientTab",
+      "DisplayName": "GradientTab"
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "If the left most tab is not selected it is inset by 2 pixels for appearances. If that tab is then selected the tabs appear to jump because all the tabs move to the left 2 pixels.",
+    "LastUpdatedDate": "2017-11-27T13:01:55.363-08:00",
+    "PlannedForRelease": "1.5.x December CTP Alpha",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2007-01-04T14:44:00.983-08:00",
+    "Status": {
+      "Name": "Active",
+      "Id": 2
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Increase width of selected tab by 2 pixels if it is left most tab",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 4,
+    "Id": 7010
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

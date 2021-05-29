@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "Development",
+      "DisplayName": "Development"
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "An updated version of this control:\n \nhttp://www.codeproject.com/cs/miscctrl/XpProgressBar.asp",
+    "LastUpdatedDate": "2013-02-14T12:12:11.29-08:00",
+    "PlannedForRelease": "1.5.x January CTP Alpha",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "Medium",
+      "Severity": 100,
+      "Id": 2
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-10-29T19:29:45.087-08:00",
+    "Status": {
+      "Name": "Active",
+      "Id": 2
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add the XpProgressBar Control",
+    "Type": {
+      "Name": "Task",
+      "Id": 2
+    },
+    "VoteCount": 4,
+    "Id": 4916
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

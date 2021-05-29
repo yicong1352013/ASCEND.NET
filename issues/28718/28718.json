@@ -1,0 +1,70 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Since upgrading to VS2010, I'm unable to add controls to my forms.\nI am able to see forms converted from vs2008 though\n \nAny chance of this getting fixes? knowing that this project is somewhat frozen in the past few years\n \nThanks!",
+    "LastUpdatedDate": "2013-02-14T12:12:03.833-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2010-08-30T09:12:11.49-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "doesn't work with vs2010",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 2,
+    "Id": 28718
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "I am having the same issue.  I am going to browse the source code and see if I can find anything that might be inhibiting the controls from being used with VS2010.",
+      "PostedDate": "2011-01-28T15:04:31.43-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "I was able to fix the issue by copying the files from Ascend.Design to Ascend.Windows.Forms!!!  The designers now work as expected.\r\n\r\nI hope this helps anyone frustrated with the components and VS2010.",
+      "PostedDate": "2011-01-28T15:25:47.59-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "I am having same issue with controls. These would not work on designer in Visual Studio 2010.\r\nI couldn't understand your solution : which was  \"I was able to fix the issue by copying the files from Ascend.Design to Ascend.Windows.Forms!!! The designers now work as expected.\"\r\nDoes it mean renaming the Ascend.Design to Ascend.Windows.Forms or soemthing else ?\r\n",
+      "PostedDate": "2011-03-14T19:20:33.923-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "@Ztgreve - not sure I understand, the entire solution exists in a single folder (ex: C:\\Program Files (x86)\\Ascend.NET Project\\Ascend.NET Windows Forms Controls\\version 1.0.0.6)\r\nWhat should I copy where?\r\n\r\n10x",
+      "PostedDate": "2011-05-02T06:26:47.037-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "I had the same problem (Windows 7 + VS 2010)! Check if Ascend.NET is registered correct (use regedit)!\r\nHEKY_LOCAL_MACHINE -> SOFTWARE -> Microsoft -> .NETFramework -> v2.0.50727 -> AssemblyFoldersEx -> Public Assemblies\r\nHEKY_LOCAL_MACHINE -> SOFTWARE -> Microsoft -> .NETFramework -> v2.0.50727 -> AssemblyFoldersEx -> Public Assemblies (Common Files)\r\nHEKY_LOCAL_MACHINE -> SOFTWARE -> Microsoft -> .NETFramework -> v2.0.50727 -> AssemblyFoldersEx -> Public Assemblies 9\r\n\r\nif not make the same registration in all folders and restart.\r\n",
+      "PostedDate": "2011-06-07T06:24:27.26-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:03.833-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

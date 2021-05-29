@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1351",
+    "ThreadId": "433",
+    "Html": "\r\nHi,<br /><br />Would it be possible to add the following events?<br /><br />SplitterMoved<br />SplitterMoving<br /><br />Regards<br />dmjma<br />",
+    "PostedDate": "2006-07-14T14:43:26.853-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1359",
+    "ThreadId": "433",
+    "Html": "\r\nLet me think on this a short while. These types of events would normally be in the container of the split bar.  I’m not sure that it can be done in the GradientSplitBar. I have considered doing a split container with the split bar.<br /><br />Thanks,<br />scorn<br />",
+    "PostedDate": "2006-07-15T07:28:30.537-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

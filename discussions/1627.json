@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "5223",
+    "ThreadId": "1627",
+    "Html": "\r\nHi,<br />let me first repeat that your controls are awsome. Please continue your great work.<br /><br /><br />What I constantly need (and miss) are a docking extension and a grid (similar to Outlook 2003).<br /><br />I've searched the internet a lot and the best solution for docking I've found is the DockPanel by Weifen Luo (see http://sourceforge.net/projects/dockpanelsuite).<br /><br />An interesting implementation of a grid control can be found here http://www.codeproject.com/cs/miscctrl/OutlookGrid.asp.<br /><br />If these controls could be added the Ascent control collection would blast everything else.<br /><br />Greetz to all, Metal-Frog<br />",
+    "PostedDate": "2006-09-29T03:16:22.6-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5270",
+    "ThreadId": "1627",
+    "Html": "\r\nThank you. :-)<br /><br />The docking will be done in version 2.0 along with the Tabbed MDI control. We need the Tab control that is being worked on now to get it done.<br /><br />Several members have been looking at an Outlook like grid. It’s not on the list yet but I’m sure it will be.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-09-30T19:36:00.957-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

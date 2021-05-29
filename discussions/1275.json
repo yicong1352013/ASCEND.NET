@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "4132",
+    "ThreadId": "1275",
+    "Html": "\r\nAs soon as we change the properties of border and/or border color and/or corner radius of Gradient Caption, for example, it shows on the designer screen. But on running the application only corner radius effect can be seen and not the border and border color. On closing the application the changes on border and border color on the designer form disappear leaving corner radius property visible. Are we doing something wrong ?<br />",
+    "PostedDate": "2006-09-07T05:28:46.377-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "4136",
+    "ThreadId": "1275",
+    "Html": "\r\nSorry, I’m not able to duplicate this. It should just take the values you are entering in the properties.<br /><br />Could you please send me an example of this to ascend_adm@hotmail.com? It may be a breaking change that I wasn’t aware of. If I can duplicate it I will fix it. :-)<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-09-07T06:04:28.437-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

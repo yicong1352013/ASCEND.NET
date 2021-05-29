@@ -1,0 +1,65 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "NavigationPane",
+      "DisplayName": "NavigationPane"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-09-15T05:53:37.38-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "item 1586 was closed but the latest version seems to still have this issue. I added a related comment. \nAdding controls programatically to the navigationpanepage doesn't repaint correctly so the interface because unusable.\n \nthanks :)",
+    "LastUpdatedDate": "2013-05-16T02:19:10.907-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-09-14T14:43:21.87-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Re-open of 1586 (repaint issue)",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 3249
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "My apologies. Your refresh issue is fixed. I'm using CustomFormBorders as well and the issue seems to be theirs now. You should close this issue.\nThanks and keep up the good work :)",
+      "PostedDate": "2006-09-14T22:04:37.073-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "No problem.",
+      "PostedDate": "2006-09-15T05:53:21.143-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-09-15T05:53:37.38-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:15.153-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-16T02:19:10.907-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

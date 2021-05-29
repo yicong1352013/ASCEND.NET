@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "3789",
+    "ThreadId": "1178",
+    "Html": "\r\nDo you know the GeniusTreeView... take a loot at gotdotnet workspace of GeniusTreeView ;-)<br />",
+    "PostedDate": "2006-09-01T02:22:10.673-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3894",
+    "ThreadId": "1178",
+    "Html": "\r\nHe does good work.<br /><br />Personally I try not to create do just about anything type controls. They are usually heavier than a do something specific type controls and because of their nature they have a lot of properties making them harder to use. Memory consumption is one of the biggest challenges I have in my day job as a consultant.  When a customer has 500 – 1000 computers with barely enough memory to run XP they don’t like the idea of adding another 256 MB to all to run your application. It stinks but happens to me regularly.<br /><br />I will look more into this control. It may be that the author has hit the right balance between customizability, memory consumption and ease of use. <br /><br />Keep the ideas coming cdemez. They are much appreciated. :-)<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-09-03T10:21:46.657-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

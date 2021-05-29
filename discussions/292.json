@@ -1,0 +1,66 @@
+[
+  {
+    "Id": "883",
+    "ThreadId": "292",
+    "Html": "\r\nhi it's possible to get the Google Style Effect using Ascend.Net ?? <br />",
+    "PostedDate": "2006-06-28T19:44:13.763-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "885",
+    "ThreadId": "292",
+    "Html": "\r\nCould you point me to an example of this look? I haven’t done much with Google tools yet.<br /><br />Thanks<br />",
+    "PostedDate": "2006-06-28T20:55:41.843-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "891",
+    "ThreadId": "292",
+    "Html": "\r\nhttp://www.google.com/talk/<br /><br />example of Google GUI Style , it have gradiant effect too so i wondering if it's possible to implemented using ascend thx <br />",
+    "PostedDate": "2006-06-28T23:31:09.663-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "904",
+    "ThreadId": "292",
+    "Html": "\r\nYes, I think so. I will create a visual example of something close and post it. I try to get it over the weekend but it depends on the final issues that need to get done to post beta 1. I will be posting beta 1 sometime on Sunday.<br /><br />Thanks<br />",
+    "PostedDate": "2006-06-29T06:02:48.153-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "905",
+    "ThreadId": "292",
+    "Html": "\r\nThis discussion has been copied to Work Item 672. You may wish to continue further discussion there.<br />",
+    "PostedDate": "2006-06-29T06:03:46.947-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1061",
+    "ThreadId": "292",
+    "Html": "\r\nI have a basic example at http://www.codeplex.com/Wiki/View.aspx?ProjectName=ASCENDNET&amp;title=Examples .<br />The sizing needs some work. I'll look at it some more when I have some free time.<br /><br />Thanks,<br />scorn<br />",
+    "PostedDate": "2006-07-04T17:18:21.74-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1272",
+    "ThreadId": "292",
+    "Html": "\r\nCool , thx for the example <br />",
+    "PostedDate": "2006-07-11T19:41:34.003-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1328",
+    "ThreadId": "292",
+    "Html": "\r\nNo problem.<br /><br />Like I said the sizing code stinks but I'll look at it after we get beta 2 out this weekend.<br />",
+    "PostedDate": "2006-07-13T13:09:37.627-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

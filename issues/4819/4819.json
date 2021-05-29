@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "All",
+      "DisplayName": "All"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-10-26T09:46:30.827-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "This class was factored out and should be removed.",
+    "LastUpdatedDate": "2017-11-27T13:01:54.41-08:00",
+    "PlannedForRelease": "1.5.x December CTP Alpha",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-10-26T09:42:07.29-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Remove GlassBackgroundRender class from Ascend.Windows.Forms.",
+    "Type": {
+      "Name": "Task",
+      "Id": 2
+    },
+    "VoteCount": 0,
+    "Id": 4819
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "5593",
+    "ThreadId": "1770",
+    "Html": "\r\nHi All,<br /><br />Has there been any discussion of developing a multi-column ComboBox or ListBox for windows forms 2.0? What are the plans, if any?<br /><br />-Andy<br />",
+    "PostedDate": "2006-10-10T07:44:49.8-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5716",
+    "ThreadId": "1770",
+    "Html": "\r\nThere has been some internal discussion about a gradient highlight list and combo box. They would be multi column. They are not on the list yet but I think they will be for version 2 or 2.5. Version 2 should probably start around February. A little ways out yet but not that long. <br />",
+    "PostedDate": "2006-10-12T19:49:10.503-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

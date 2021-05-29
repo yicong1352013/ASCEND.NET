@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "5173",
+    "ThreadId": "1610",
+    "Html": "\r\nHello, when comes the next updates ? Tabbed MDI, RibbonBar, german-language ... ?<br />bye<br />Martin<br />",
+    "PostedDate": "2006-09-28T06:31:29.94-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5187",
+    "ThreadId": "1610",
+    "Html": "\r\nSorry, all the project members had a spike in the demands of their day jobs pretty much at the same time. I have another couple of weeks of long hours on my current project and then things get better.<br /><br />The RC of the current controls should be out by end of day tomorrow. There is just a little testing yet to go.<br /><br />I’ve started on some of the new controls and will have a CTP available late in October. I’m considering doing a nightly or weekly build on the new release. I’m a little worried about breaking changes if I expose daily builds. We strive hard to not have any breaking changes on anything released to the public but in day to day development they happen. I wouldn’t mind some feedback on this from the community.<br /><br />I will get with Martin to see where the German translation stands.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-09-28T09:51:27.447-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

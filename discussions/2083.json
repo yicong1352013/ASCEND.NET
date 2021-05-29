@@ -1,0 +1,82 @@
+[
+  {
+    "Id": "6556",
+    "ThreadId": "2083",
+    "Html": "\r\nNot trying to pin you guys down to a specific date but maybe a month range that it may be due. I've got a release myself and wondering if its worth while in waiting for your tab control.<br /><br />Thanks for the great work!<br />",
+    "PostedDate": "2006-10-29T18:58:59.833-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6590",
+    "ThreadId": "2083",
+    "Html": "\r\nIt will probably be the end of February before there will be a production release of 1.5. I think there will be a fairly stabile version of the tab by the end of November. It is just now started but is very similar to the NavigationPane just rendered differently.<br /><br />Sorry it takes so long. I’m afraid like most of us my day job projects can be very demanding.<br /><br />Thanks,<br />Scott <br />",
+    "PostedDate": "2006-10-30T09:43:38.96-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6770",
+    "ThreadId": "2083",
+    "Html": "\r\nUnderstood, that's why I wasn't pressing. Any chance of you releasing just the tab control prior to the 1.5 release?<br />",
+    "PostedDate": "2006-11-01T14:51:44.523-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6902",
+    "ThreadId": "2083",
+    "Html": "\r\nYes, I'm sure we could do that. I will be on vacation from my day job for a week in a couple of weeks and I should have it pretty well done at the end of that week.<br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2006-11-03T06:05:02.427-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "7812",
+    "ThreadId": "2083",
+    "Html": "\r\nHey Scorn,<br />Just checking in to see how the tab control is coming?<br />Hope you're set up to have a good Thanksgiving (assuming you're from the US).<br />",
+    "PostedDate": "2006-11-20T19:03:32.487-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "7864",
+    "ThreadId": "2083",
+    "Html": "\r\nI started on it today. I should have fairly good version by the end of the week. <br /><br />Yes, I live in the U.S. I figure I will eat too much on Thanksgiving. :-) <br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2006-11-21T13:58:26.46-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8522",
+    "ThreadId": "2083",
+    "Html": "\r\nHope you had a great Thanksgiving. I know mine was awesome.<br />Is there any ETA on the November release? Looking forward to using it.<br />",
+    "PostedDate": "2006-12-03T17:48:00.55-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8551",
+    "ThreadId": "2083",
+    "Html": "\r\nI ate too much on Thanksgiving. :-) I hope yours went well.<br /><br />I’m still working on the GradientTab. I didn’t have as much time off for the holiday as I expected. <br /><br />I do have the GradientTab control working and solid at this point but I have to add the multiple tab row feature, arrows for tab overflow if not set to multiple rows and left and right rendering for the tabs. Vertical rendering of text for the GradientCaption render will also have to be added to support right and left tabs. At this point the tabs are also only square. The curved edge rendering for the tabs is not a large amount of work but I just don’t want to do it until the other parts are done.<br /><br />I would like to say it will be done in the next few days but I just don’t know how my schedule will fall out for my day job projects. They are all going well but changes in specifications keep popping up in the first round of unit testing. The second phase of the main project has also started concurrently.<br /><br />After I add an additional property for tab style the control will not have any known breaking changes in the future. Are you interested in getting a preview version for testing? It won’t be done but it shouldn’t cause any problems.<br /><br />I’ve also considered a daily build as a possibility. I need to do something to get things out faster but still fit my schedule. The only problem with the daily build is I can’t guarantee there won’t be any breaking changes. <br /><br />What do you and others think?<br /><br />Thanks,<br />Scott <br />",
+    "PostedDate": "2006-12-04T07:44:46.753-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8593",
+    "ThreadId": "2083",
+    "Html": "\r\nWhy do vacations always seem to cause more work?<br /><br />Not a problem. If I had my druthers I'd rather have a preview release in a state that you feel won't have too many breaking changes so I have something to develop from. A daily build isn't really necessary for me. Incomplete is expected so long as I can work with it without any major bugs that makes my designer puke. :)<br /><br />Glad to hear you had a good Thanksgiving.<br />",
+    "PostedDate": "2006-12-04T22:28:29.733-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "9386",
+    "ThreadId": "2083",
+    "Html": "\r\nany thoughts as to which way you're going to go?<br />",
+    "PostedDate": "2006-12-17T21:01:14.49-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

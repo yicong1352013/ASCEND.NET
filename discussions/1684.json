@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "5388",
+    "ThreadId": "1684",
+    "Html": "\r\nMaybe its late on my end, but I have a GradientNavigationButton sitting on a dark panel. If I round the top corners (12), the right angle area in the corners, unpainted area, shows up as white. Since the button is sitting on a dark area, the effect is, for lack of a better term devil's ears. I could not find a background property to set to transparent, to allow the dark color to comes through where the control has been rounded off. Please Advise. Thanks<br />",
+    "PostedDate": "2006-10-03T21:43:21.243-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5421",
+    "ThreadId": "1684",
+    "Html": "\r\nGenerally if you see stray artifacts around rounded corners changing the corner radius number up or down by 1 will clean it up. If that doesn’t work you can set the AntiAlias property to true. There is a slight performance penalty if you have many buttons on a screen and set all their AntiAlias properties to true.<br /><br />Thanks, <br />Scorn<br />",
+    "PostedDate": "2006-10-04T09:17:20.857-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5474",
+    "ThreadId": "1684",
+    "Html": "\r\nI have sent Scorn the picture of the screen shot, but to let everyone know...<br /><br />As with windows forms, things are in layers. I have the button on top of dark blue panel. Below the panel, rests another panel with grey. The ears I see (where the button was rounded off) is the color grey. The assumption would be that those ears, so to speak, would be blue and the button would blend in with the lower panel. But the ears are grey...hence picking up the lowest most panel. Everthing is transparent, except for the lowest most panel.<br />",
+    "PostedDate": "2006-10-05T19:46:43.177-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5513",
+    "ThreadId": "1684",
+    "Html": "\r\nThe problem stems from placing a control on top of another control that is not a container. In this case placing a GradientButton control on top of a GradientCaption control. Because the GradientCaption is not a container control the GradientButton looks to its parent to decide what color to make the transparent background. The parent is not the GradientCaption but whatever control they are both contained in. It just appears that GradientButton is contained in the other because it is on top.<br /><br />At an earlier point I had the GradientCaption based on a container control. This seemed inefficient so I based it off a regular control. I’ve looked at making the transparent areas truly transparent but there is a bug (IMHO) in .NET that results in the transparent area being transparent all the way to the desktop. There are ways around this but I don’t care for all the unsafe API calls it takes.<br /><br />I will see about what can be done in the next version that we starting now. Sorry for the issue. :-)<br /><br />Thanks, <br />Scorn<br />",
+    "PostedDate": "2006-10-06T15:44:03.783-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

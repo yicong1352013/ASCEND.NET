@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "3419",
+    "ThreadId": "1044",
+    "Html": "\r\nOne of the new security features in Windows is that some file types that are downloaded from the Internet are blocked by default. The compiled help file format is one of these file types.<br /><br />To view the documentation you will need to go to your file explorer and find the downloaded help file. Right click on the file and select properties. On the general tab you should see a unblock button. Press this button and then press ok. When you open the help file you should now see the help content.<br />",
+    "PostedDate": "2006-08-26T06:04:04.983-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

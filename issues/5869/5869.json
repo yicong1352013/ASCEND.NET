@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientTab",
+      "DisplayName": "GradientTab"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-11-22T17:29:01.707-08:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Image for toolbox",
+    "LastUpdatedDate": "2013-05-16T02:18:58.657-07:00",
+    "PlannedForRelease": "1.5.x December CTP Alpha",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-11-22T17:00:39.867-08:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add GradientTab icon to Ascend.Windows.Forms",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 1,
+    "Id": 5869
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

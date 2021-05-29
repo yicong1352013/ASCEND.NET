@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "10182",
+    "ThreadId": "3225",
+    "Html": "\r\nAfter 10 months of very aggressive day job deadlines I have the next week off and I hope to finally finish the GradientTab control and release a CTP of Ascend.Net 1.5 soon.<br /><br />I had a major hardware failure on my home computer a couple of weeks ago. My power supply burned up and took much of the attached hardware with it. (Think loud electric buzzing and blue flames) Those of you that know me know that I have several children and December and its holidays make for a very expensive month. Not a time of the year to be buying new hardware for myself. I’ve always been a pack rat when it comes to old hardware much to wife’s aggravation. I was able to cobble together a system from old parts. It’s not pretty or fast but at least I’m going again and I have some small justification for why I hang on to old hardware. :-) Maybe later this year I can look into building a basic Vista system.<br /><br />I have the tab working at a very basic level. It currently only supports square tabs and does not yet support multiple tab lines. I hope to get all this done by the end of the week. I will start on the ExplorerPane control after that. <br /><br />Scott<br />",
+    "PostedDate": "2007-01-01T13:17:38.87-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1383",
+    "ThreadId": "449",
+    "Html": "\r\nCurrently the controls that support text allow the text alignment to be set with the exception of the NavigationPane control. This will be allowed in the NavigationPane in beta 2.<br /><br />The question I have is if the RightToLeft property is set to true in a control should any text alignment you have set be overridden and automatically be set to right center?<br /><br />The reason I ask this is the caption, footer and each individual button on a NavigationPane may have their text alignment set independently in beta 2. If you set RightToLeft to true any independent text alignment you have done will be set to right center. <br /><br />Thanks,<br />scorn<br />",
+    "PostedDate": "2006-07-17T12:37:14.73-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1701",
+    "ThreadId": "449",
+    "Html": "\r\nI’m adding right to left support in beta 3. It will duplicate how the . Net label control behaves. Basically if set to true a right alignment of the text will actually be left and left alignment will be right. I’ve always found this more confusing than just setting the alignment but I think it is best to match what Microsoft has already done.<br />",
+    "PostedDate": "2006-07-30T20:55:35.247-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

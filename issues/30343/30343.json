@@ -1,0 +1,60 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Ascend.net Winforms would not work on designer in Visual Studio 2010. \nBut these work as expected in Visual Studio 2008. I can drag and drop these controls on designer and change properties etc.\nAny help will be greatly appreciated.",
+    "LastUpdatedDate": "2013-02-14T12:12:03.153-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2011-03-14T19:28:10.53-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Can not drop controls on designer in Visual Studio 2010",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 30343
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "I had the same problem (Windows 7 + VS 2010)! Check if Ascend.NET is registered correct (use regedit)!\r\nHEKY_LOCAL_MACHINE -> SOFTWARE -> Microsoft -> .NETFramework -> v2.0.50727 -> AssemblyFoldersEx -> Public Assemblies\r\nHEKY_LOCAL_MACHINE -> SOFTWARE -> Microsoft -> .NETFramework -> v2.0.50727 -> AssemblyFoldersEx -> Public Assemblies (Common Files)\r\nHEKY_LOCAL_MACHINE -> SOFTWARE -> Microsoft -> .NETFramework -> v2.0.50727 -> AssemblyFoldersEx -> Public Assemblies 9\r\n\r\nif not make the same registration in all folders and restart.",
+      "PostedDate": "2011-06-07T06:25:30.723-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "Thanks mate. I will try it soon.",
+      "PostedDate": "2011-06-08T20:20:24.2-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "I had this problem and it was solved checking that those registry keys did not exists except the first one. Then I have created the last 2 of them and restarted VS 2010 and it worked.\r\n\r\nMy W7 is 64-bit so these keys are restored in HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node instead of HKEY_LOCAL_MACHINE\\SOFTWARE\\, if you have 32-bit platform just edit the script and take out the \\Wow6432Node registry folder.\r\n\r\nHere I leave my script:\r\n\r\n\r\n[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\.NETFramework\\v2.0.50727\\AssemblyFoldersEx\\Public Assemblies\\Ascend.NET]\r\n@=\"C:\\\\Program Files (x86)\\\\Ascend.NET Project\\\\Ascend.NET Windows Forms Controls\\\\version 1.0.0.6\\\\\"\r\n[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\.NETFramework\\v2.0.50727\\AssemblyFoldersEx\\Public Assemblies 9\\Ascend.NET]\r\n@=\"C:\\\\Program Files (x86)\\\\Ascend.NET Project\\\\Ascend.NET Windows Forms Controls\\\\version 1.0.0.6\\\\\"\r\n[HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\.NETFramework\\v2.0.50727\\AssemblyFoldersEx\\Public Assemblies (Common Files)\\Ascend.NET]\r\n@=\"C:\\\\Program Files (x86)\\\\Ascend.NET Project\\\\Ascend.NET Windows Forms Controls\\\\version 1.0.0.6\\\\\"",
+      "PostedDate": "2011-12-29T07:48:51.81-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:03.153-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

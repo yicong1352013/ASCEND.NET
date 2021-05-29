@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "1283",
+    "ThreadId": "418",
+    "Html": "\r\nHi,<br /><br />Id would be very usefull to change the standard color for the NavigationPane.<br /><br />both Higligted mode and normal mode.<br /><br />Like the way in the GradientNavigaionButton.<br /><br />GradientLowColor and GradienthighColor.<br /><br />regards<br /><br />Jorgen Hoffmeister<br />",
+    "PostedDate": "2006-07-12T06:50:44.323-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1290",
+    "ThreadId": "418",
+    "Html": "\r\nI agree. It has been on my list for a while now. I will be releasing beta 2 sometime Sunday and I will try to get it into it.<br />",
+    "PostedDate": "2006-07-12T13:29:34.68-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1370",
+    "ThreadId": "418",
+    "Html": "\r\nThis was a bit more work than I thought but I delayed beta 2 for 3 days so it could be done. It really does make the control much better. :-)<br />",
+    "PostedDate": "2006-07-16T19:21:33.83-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "All",
+      "DisplayName": "All"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-10-20T13:00:04.197-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Use 1.5.0.0 as the asembly build number with a progressive file build number starting with 1.5.0.7. This will allow for daily/weekly builds without having to change references.",
+    "LastUpdatedDate": "2017-11-27T13:01:53.933-08:00",
+    "PlannedForRelease": "1.5.x December CTP Alpha",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-10-20T12:54:01.71-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Start using common assembly build number with a progressive file build number",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 0,
+    "Id": 4604
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

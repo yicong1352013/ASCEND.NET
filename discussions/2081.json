@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "6549",
+    "ThreadId": "2081",
+    "Html": "\r\nLooks like a gradient-style treeview control. Not much different in functionality than the MS treeview but does have the nifty gradient bars. Any thoughts on doing something like this?<br />",
+    "PostedDate": "2006-10-29T10:13:56.107-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6589",
+    "ThreadId": "2081",
+    "Html": "\r\nI will be creating a control like this in version 1.5. I grouped it in with the ExplorerPane control. I can’t just stack several ExplorerPane controls on top of each other and have it work well, but a lot of the code can be common.<br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2006-10-30T09:36:10.683-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "8739",
+    "ThreadId": "2787",
+    "Html": "\r\nI'm noticing some extremely slow performance (100% CPU usage) when resizing a window that contains a good number of Ascend controls (the Outlook-style sample is an excellent example of this). Is there something I'm missing to improve performance, or is this just how it is at the moment?<br />",
+    "PostedDate": "2006-12-06T23:02:15.677-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8950",
+    "ThreadId": "2787",
+    "Html": "\r\nI took a superficial look at this today and didn’t see it. I will take a deeper look into it yet this week. If you have an example other than the Outlook example could you please send it to me at ascend_adm@hotmail.com ?<br /><br />Thanks,<br />Scott<br /><br />",
+    "PostedDate": "2006-12-11T15:11:52.713-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "I am using Sharp Develop for developing my application. When I try to drop any of these (navigation pane) controls on the designer window, these are getting added in Non-Visual tray where as it is getting added in Visual Tray in Visual Studio. This means I am unable to use these controls in Non-Visual studio environment. Do we have to use VS for using these controls?",
+    "LastUpdatedDate": "2013-02-14T12:12:04.03-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2008-12-30T05:20:45.65-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Controls are getting added to Non-Visual tray in Sharp Develop.",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 20400
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

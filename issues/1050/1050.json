@@ -1,0 +1,80 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientPanel",
+      "DisplayName": "GradientPanel"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-07-30T16:28:58.44-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "1. Add a button to the bottom right of a GradientPanel\n2. Try to move this Panel and you will notice that the upper left portion of the rectangle is gray.\n3. Now remove the button\n4. Try to move the panel again and you will notice that the problem is gone.\n \nAlso, if you try to move the location of the button within the panel, the gray area drawn is changed as well.",
+    "LastUpdatedDate": "2017-11-27T13:01:34.113-08:00",
+    "PlannedForRelease": "1.x - 3 Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Medium",
+      "Severity": 100,
+      "Id": 2
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-07-18T11:35:02.643-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Panel is partially painted when it contains a child control",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 1050
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "I have also seen this:\n1. Set the padding to 1 for all sides\n2. Set the border to 1 for all sides\n3. Place a child on the control\n4. Set the child's docking to fill\n5. At run time cover the border with something like a tool tip\n\nThe border does not always redraw.\n\nIt does not seem to always get a message from Windows to redraw. I think it is all related to this.\n\nscorn",
+      "PostedDate": "2006-07-18T13:30:31.94-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "If this is related the issue above is logged as work item 873.",
+      "PostedDate": "2006-07-18T13:54:47.723-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-07-18T18:06:50.567-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-07-30T16:28:42.067-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-07-30T16:28:58.44-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:24.477-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-16T02:19:40.493-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2017-11-27T13:01:34.113-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

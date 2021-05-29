@@ -1,0 +1,75 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientCaption",
+      "DisplayName": "GradientCaption"
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Hi,\n \nI've noticed that when you put only one character into the button Control (ex. X).\nSet the text alignment to middlecenter.\nHeight and width to 20 for example.\n \nIn the result you can see that the text is not in the center.\nIs this normal?\n \nRegards,\nMisterK",
+    "LastUpdatedDate": "2017-11-27T13:01:54.79-08:00",
+    "PlannedForRelease": "1.5.x December CTP Alpha",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-11-16T14:16:22.85-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Center Text on GradientNavigationButton",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 2,
+    "Id": 5717
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "I will look into this. \r\n\r\nThanks,Scott",
+      "PostedDate": "2006-11-21T15:32:25.88-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-11-21T15:33:13.397-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-11-21T16:50:05.547-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-11-22T14:08:30.183-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2007-01-23T08:05:06.107-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:10.717-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2017-11-27T13:01:54.79-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

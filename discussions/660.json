@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "2051",
+    "ThreadId": "660",
+    "Html": "\r\nAll,<br />I updated the Ascend controls to build 1.0.0.4 RC1 last night. You will need to drag the ref dlls into your assembly directory before compiling the first time after a get latest from source control.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-08-08T10:00:20.237-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

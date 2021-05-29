@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1755",
+    "ThreadId": "576",
+    "Html": "\r\nI added a new control to the solution last night. The new control is a GradientLine control.<br /><br />You will need to update your GAC with the new reference assemblies in order to compile the first time.<br /><br />To do your initial compile drag the 4 assemblies in Solution Items into the assembly directory under your Windows directory. Once this is done you can compile as normal.<br /><br />Thanks,<br />scorn<br />",
+    "PostedDate": "2006-08-01T06:41:20.217-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

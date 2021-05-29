@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "3795",
+    "ThreadId": "1179",
+    "Html": "\r\nDo you plan to add a MainMenu with Ascend-Features?<br /><br />",
+    "PostedDate": "2006-09-01T03:30:35.873-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3802",
+    "ThreadId": "1179",
+    "Html": "\r\nI have been considering creating a render class that can be used with the existing MS .Net menu that would do this. I added it to the Community Requested Controls Threads for discussion. <br />",
+    "PostedDate": "2006-09-01T06:02:53.61-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

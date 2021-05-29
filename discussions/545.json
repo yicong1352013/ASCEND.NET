@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "1668",
+    "ThreadId": "545",
+    "Html": "\r\nHas anyone seen where the color used in <br /><br />TextRenderer.DrawText has an alpha of less than 255 but the DrawText method ignores it? <br /><br />The GDI+ method DrawString does honor the alpha value. The GDI method uses a brush but the alpha value is set at the color level before being added to the brush. The DrawText method uses a color but again the alpha is set in the color before being passed to the method.<br /><br />Thanks,<br />scorn<br />",
+    "PostedDate": "2006-07-29T09:18:25.33-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3180",
+    "ThreadId": "545",
+    "Html": "\r\nit's ture, seems like we can only use DrawString() if we want to use alpha<br />",
+    "PostedDate": "2006-08-22T20:08:05.15-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3212",
+    "ThreadId": "545",
+    "Html": "\r\nTextRenderer also will not rotate the text. You have to create a bitmap and rotate the bitmap. The same technique can be used to have the text use a alpha setting but I wish the class would just work better.<br />",
+    "PostedDate": "2006-08-23T06:09:47.18-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

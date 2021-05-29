@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientPanel",
+      "DisplayName": "GradientPanel"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-06-16T19:55:00.81-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:22.18-08:00",
+    "PlannedForRelease": "1.0.0.0 Alpha",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-06-10T17:30:39.897-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Redraw on scroll on GradientPanel",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 401
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

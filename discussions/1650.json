@@ -1,0 +1,66 @@
+[
+  {
+    "Id": "5280",
+    "ThreadId": "1650",
+    "Html": "\r\nI am using verison 1.0.0.5 and am using the GradientNavigationButton. The problem is that when the button is clicked it goes to the active state and stays that way...do I have to programmatically switch it back on an event or I have I just setup the button wrong? Or is my concept of what the button does wrong...lol...Note I have differing colors between the three states active, highlight and gradient so not to be confused between states during initial development. <br /><br />advTHANKSance<br />",
+    "PostedDate": "2006-10-01T14:07:30.99-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5281",
+    "ThreadId": "1650",
+    "Html": "\r\nI built the GradientNavigationButton more as a state button than an actual button.  Most have used it more as a button. I guess having button in the name would lead one to do this. &lt;smile&gt;<br /><br />You can set the property ActiveOnClick to false and it will not show the active rendering and will not be flagged as active. This would remove the third button state coloring that you probably want however.<br /><br />I think I should add a property StayActiveAfterClick allowing the button to show the active coloring if clicked but not retaining it after you leave if the property is set to false. <br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-10-01T14:45:57.447-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5285",
+    "ThreadId": "1650",
+    "Html": "\r\nThat's the answer. Thanks!<br />",
+    "PostedDate": "2006-10-01T16:53:02.52-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5286",
+    "ThreadId": "1650",
+    "Html": "\r\nIf I place the change of the property ActiveOnClick in either MouseClick or Click events, It changes it before the Active state is shown. I remember MFC had an OnMouseUP event...no such thing now...<br /><br />:-( <br /><br />Please advise.<br /><br />Thanks.<br />",
+    "PostedDate": "2006-10-01T17:19:59.717-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5384",
+    "ThreadId": "1650",
+    "Html": "\r\nSorry, I just noticed that you had another post.<br /><br />If you set the button’s ActiveOnClick property in design mode or load of the form it will not become active when clicked. <br /><br />If you want to show the active colors when it is clicked but then have it revert to a non active state after leaving the button it will take me adding the new property I talked about in my previous post. I will add this property yet this week. It may be the end of the week but if you want to have this change sent to you before the production version is release please send me your email address at ascend_adm@hotmail.com.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-10-03T17:53:06.25-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5387",
+    "ThreadId": "1650",
+    "Html": "\r\nActually it didn’t take as long as I thought. It is done now if you are interested.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-10-03T19:50:37.643-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5420",
+    "ThreadId": "1650",
+    "Html": "\r\nI sent you the install. Let me know if you don’t get it. I’ve not had good luck with hotmail sending zip files lately.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-10-04T09:12:42.113-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "5475",
+    "ThreadId": "1650",
+    "Html": "\r\nAlls well. Sorry for the slow response...had a cold and went to bed last night early! &lt;g&gt;<br />",
+    "PostedDate": "2006-10-05T19:48:53.38-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

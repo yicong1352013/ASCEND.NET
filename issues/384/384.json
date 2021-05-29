@@ -1,0 +1,60 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "All",
+      "DisplayName": "All"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-06-10T14:28:20.177-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Look into MS build to deal with recursive references from base class and design class.\n \nCurrently I reference the assemblies from the GAC but this may be hard for others to understand why.",
+    "LastUpdatedDate": "2017-11-27T13:01:21.723-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Medium",
+      "Severity": 100,
+      "Id": 2
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-06-09T12:52:04.827-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Recursive references on compile",
+    "Type": {
+      "Name": "Task",
+      "Id": 2
+    },
+    "VoteCount": 0,
+    "Id": 384
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "For now I have the designers in the Ascend.Windows.Forms assembly. I may change this in the future but for now it will make it much easier for others to compile.",
+      "PostedDate": "2006-06-10T14:28:20.177-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:34.997-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-16T02:20:03.987-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2017-11-27T13:01:21.723-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

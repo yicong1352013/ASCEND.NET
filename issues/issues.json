@@ -1,0 +1,1838 @@
+[
+  {
+    "Id": 370,
+    "Title": "A better way to implement localization."
+  },
+  {
+    "Id": 384,
+    "Title": "Recursive references on compile"
+  },
+  {
+    "Id": 397,
+    "Title": "If only 1 navigation button is added to a NavigationPane it does not render."
+  },
+  {
+    "Id": 398,
+    "Title": "Installed controls do not show up in .NET Framework Components."
+  },
+  {
+    "Id": 400,
+    "Title": "Options menu item not showing on NavigationPane"
+  },
+  {
+    "Id": 401,
+    "Title": "Redraw on scroll on GradientPanel"
+  },
+  {
+    "Id": 402,
+    "Title": "Add waterwark image property on GradientPanel"
+  },
+  {
+    "Id": 403,
+    "Title": "Add waterwark image position property on GradientPanel"
+  },
+  {
+    "Id": 409,
+    "Title": "Redraw/refresh better in design view on GradientAnimation"
+  },
+  {
+    "Id": 410,
+    "Title": "Change default gradient direction to horizontal."
+  },
+  {
+    "Id": 411,
+    "Title": "Change default gradient high color to InactiveCaptionText."
+  },
+  {
+    "Id": 412,
+    "Title": "Change default gradient high low to GradientActiveCaption."
+  },
+  {
+    "Id": 413,
+    "Title": "Add ExplorerPane"
+  },
+  {
+    "Id": 414,
+    "Title": "Add text align property on GradientCaption"
+  },
+  {
+    "Id": 416,
+    "Title": "Property error on GradientCaption after delete of control"
+  },
+  {
+    "Id": 458,
+    "Title": "Check animated gif as image in GradientCaption"
+  },
+  {
+    "Id": 473,
+    "Title": "Tabbed MDI control"
+  },
+  {
+    "Id": 474,
+    "Title": "Help file Visual Studio integration."
+  },
+  {
+    "Id": 485,
+    "Title": "Border draw incorrect on right and bottom on GradientAnimation"
+  },
+  {
+    "Id": 486,
+    "Title": "Check on graphics disposal on GradientAnimation"
+  },
+  {
+    "Id": 487,
+    "Title": "Combine caption properties into expanding property."
+  },
+  {
+    "Id": 488,
+    "Title": "Combine footer properties into expanding property."
+  },
+  {
+    "Id": 489,
+    "Title": "Set focus to navigation pane panel properties on button click in design mode."
+  },
+  {
+    "Id": 490,
+    "Title": "Set default border color to ActiveCaption on GradientCaption."
+  },
+  {
+    "Id": 491,
+    "Title": "Add set display order method to NavigationPane."
+  },
+  {
+    "Id": 492,
+    "Title": "Add get customization method."
+  },
+  {
+    "Id": 493,
+    "Title": "Add set customization method."
+  },
+  {
+    "Id": 494,
+    "Title": "ImageList dispose incorrect"
+  },
+  {
+    "Id": 495,
+    "Title": "Error on navigation page add with button minimized in design mode"
+  },
+  {
+    "Id": 496,
+    "Title": "Error on navigation page remove with button minimized in design mode"
+  },
+  {
+    "Id": 498,
+    "Title": "Better GradientNavigationButton control title text."
+  },
+  {
+    "Id": 499,
+    "Title": "NavigationPane control title text."
+  },
+  {
+    "Id": 500,
+    "Title": "GradientAnimation control title text."
+  },
+  {
+    "Id": 501,
+    "Title": "Clean up code"
+  },
+  {
+    "Id": 502,
+    "Title": "Switch padding and margin. They are backwards in render."
+  },
+  {
+    "Id": 503,
+    "Title": "Clean up invalidate code."
+  },
+  {
+    "Id": 504,
+    "Title": "ImageAlign not retained on GradientNavigationButton"
+  },
+  {
+    "Id": 507,
+    "Title": "Add Examples to help."
+  },
+  {
+    "Id": 508,
+    "Title": "Add TextAlign to NavigationPanePage"
+  },
+  {
+    "Id": 509,
+    "Title": "Animated images not animating."
+  },
+  {
+    "Id": 511,
+    "Title": "Remove padding property from NavigationPane."
+  },
+  {
+    "Id": 512,
+    "Title": "Add ImageAlign to NavigationPanePage"
+  },
+  {
+    "Id": 513,
+    "Title": "Add action list design form to NavigationPanePage."
+  },
+  {
+    "Id": 514,
+    "Title": "AllowPartiallyTrustedCallers"
+  },
+  {
+    "Id": 553,
+    "Title": "Bitmap 1 pixel short on width GradientAnimation"
+  },
+  {
+    "Id": 554,
+    "Title": "Hide BackColor on GradientAnimation."
+  },
+  {
+    "Id": 573,
+    "Title": "Add waterwark image alpha property on GradientPanel"
+  },
+  {
+    "Id": 574,
+    "Title": "Bitmap 1 pixel short on height GradientAnimation"
+  },
+  {
+    "Id": 575,
+    "Title": "Alpha not used on image."
+  },
+  {
+    "Id": 578,
+    "Title": "Add WatermarkImageIndex property to GradientPanel"
+  },
+  {
+    "Id": 579,
+    "Title": "Add WatermarkImageKey property to GradientPanel"
+  },
+  {
+    "Id": 582,
+    "Title": "Add ResourceDisplayNameAttribute class"
+  },
+  {
+    "Id": 583,
+    "Title": "Add localized display name attributes to GradientPanel"
+  },
+  {
+    "Id": 588,
+    "Title": "Add localized display name attributes to GradientAnimation"
+  },
+  {
+    "Id": 589,
+    "Title": "Add localized display name attributes to GradientCaption"
+  },
+  {
+    "Id": 590,
+    "Title": "Add localized display name attributes to GradientNavigationButton"
+  },
+  {
+    "Id": 591,
+    "Title": "Add localized display name attributes to GradientSplitBar"
+  },
+  {
+    "Id": 592,
+    "Title": "Add localized display name attributes to NavigationPane"
+  },
+  {
+    "Id": 593,
+    "Title": "Add localized display name attributes to NavigationPanePage"
+  },
+  {
+    "Id": 594,
+    "Title": "Remove watermark properties and events from GradientSplitBar"
+  },
+  {
+    "Id": 595,
+    "Title": "First step of Chinese translation."
+  },
+  {
+    "Id": 616,
+    "Title": "Code analysis clean up"
+  },
+  {
+    "Id": 620,
+    "Title": "Padding not working on caption"
+  },
+  {
+    "Id": 629,
+    "Title": "Add +1 pixel to background draw width and height"
+  },
+  {
+    "Id": 648,
+    "Title": "Default size better on mode change GradientSplitBar"
+  },
+  {
+    "Id": 662,
+    "Title": "NavigationPanePanel Z order can be wrong on initialize NavigationPane"
+  },
+  {
+    "Id": 663,
+    "Title": "Add AllowAnimation on GradientCaption"
+  },
+  {
+    "Id": 672,
+    "Title": "Google Style example"
+  },
+  {
+    "Id": 673,
+    "Title": "Add IsAnimating on GradientCaption"
+  },
+  {
+    "Id": 674,
+    "Title": "Add CanAnimate on GradientCaption"
+  },
+  {
+    "Id": 675,
+    "Title": "Separate property resource strings from others"
+  },
+  {
+    "Id": 699,
+    "Title": "Add padding back into NavigationPane but hide from designers"
+  },
+  {
+    "Id": 713,
+    "Title": "Improve/finish help file"
+  },
+  {
+    "Id": 717,
+    "Title": "Hide Render property from designer NavigationPane"
+  },
+  {
+    "Id": 718,
+    "Title": "Hide ButtonDisplayOrder property from designer NavigationPanePage"
+  },
+  {
+    "Id": 719,
+    "Title": "Hide Size property from designer NavigationPanePage"
+  },
+  {
+    "Id": 720,
+    "Title": "Hide Margin property from designer NavigationPanePage"
+  },
+  {
+    "Id": 721,
+    "Title": "Hide MinimumSize property from designer NavigationPanePage"
+  },
+  {
+    "Id": 730,
+    "Title": "Look into MSBuild to make recursive ref build easier"
+  },
+  {
+    "Id": 731,
+    "Title": "Increase GradientNavigationButton default size"
+  },
+  {
+    "Id": 732,
+    "Title": "Change default border color to ActiveCaption on GradientPanel"
+  },
+  {
+    "Id": 733,
+    "Title": "Default value attribute BorderColor not working"
+  },
+  {
+    "Id": 734,
+    "Title": "Add IntelliSense support"
+  },
+  {
+    "Id": 742,
+    "Title": "Remove BorderColor override in GradientCaption"
+  },
+  {
+    "Id": 743,
+    "Title": "BorderColor default value attribute not set in NavigationPane"
+  },
+  {
+    "Id": 744,
+    "Title": "Update install for beta 1"
+  },
+  {
+    "Id": 745,
+    "Title": "Set default border color to ActiveCaption on GradientAnimation"
+  },
+  {
+    "Id": 746,
+    "Title": "Set default value attribute to none on ImageKey on GradientNavigationButton"
+  },
+  {
+    "Id": 748,
+    "Title": "Localize resources on install"
+  },
+  {
+    "Id": 749,
+    "Title": "Add XML document file design assembly."
+  },
+  {
+    "Id": 752,
+    "Title": "Localized properties not working on action lists"
+  },
+  {
+    "Id": 762,
+    "Title": "Bug in NavigationPageCollection.Clear() method?"
+  },
+  {
+    "Id": 764,
+    "Title": "Code analysis clean up second pass"
+  },
+  {
+    "Id": 765,
+    "Title": "Add controls to toolbox in Visual Studio automatically on install"
+  },
+  {
+    "Id": 767,
+    "Title": "Create example applications"
+  },
+  {
+    "Id": 801,
+    "Title": "Remove get from DisplayOrder in NavigationPaneRender"
+  },
+  {
+    "Id": 802,
+    "Title": "Padding change does not redraw control in design mode"
+  },
+  {
+    "Id": 814,
+    "Title": "Build Warning(s) in NavigationPane.cs"
+  },
+  {
+    "Id": 815,
+    "Title": "Build Warning(s) in NavigationPaneOptions.cs"
+  },
+  {
+    "Id": 816,
+    "Title": "Build Warning(s) in NavigationPaneOptions.cs"
+  },
+  {
+    "Id": 819,
+    "Title": "Office 2007 gradient look and feel research"
+  },
+  {
+    "Id": 821,
+    "Title": "Look into flat appearance for navigation button"
+  },
+  {
+    "Id": 833,
+    "Title": "Add UseCompatibleTextRendering property to GradientCaption"
+  },
+  {
+    "Id": 835,
+    "Title": "Add UseCompatibleTextRendering property to NavigationPane"
+  },
+  {
+    "Id": 837,
+    "Title": "Minimized image 1px short in width in footer when antialias is on NavigationPane"
+  },
+  {
+    "Id": 848,
+    "Title": "Add Deselecting event to NavigationPane"
+  },
+  {
+    "Id": 849,
+    "Title": "Add Deselected event to NavigationPane"
+  },
+  {
+    "Id": 850,
+    "Title": "Add Selecting event to NavigationPane"
+  },
+  {
+    "Id": 851,
+    "Title": "Add Selected event to NavigationPane"
+  },
+  {
+    "Id": 852,
+    "Title": "Add NavigationPaneCancelEventArgs class"
+  },
+  {
+    "Id": 853,
+    "Title": "Add NavigationPaneEventArgs class"
+  },
+  {
+    "Id": 856,
+    "Title": "Update install for beta 2"
+  },
+  {
+    "Id": 873,
+    "Title": "Border does not always redraw when covered with specific controls (Combo from toolbar, tooltip)"
+  },
+  {
+    "Id": 903,
+    "Title": "Add logo to install"
+  },
+  {
+    "Id": 908,
+    "Title": "Update project icons"
+  },
+  {
+    "Id": 925,
+    "Title": "Add DeselectNavigationPage(int index) method to NavigationPane"
+  },
+  {
+    "Id": 926,
+    "Title": "Add DeselectNavigationPage(string key) method to NavigationPane"
+  },
+  {
+    "Id": 927,
+    "Title": "Add DeselectNavigationPage(NavigationPanePage page) method to NavigationPane"
+  },
+  {
+    "Id": 928,
+    "Title": "Add SelectNavigationPage(NavigationPanePage page) method to NavigationPane"
+  },
+  {
+    "Id": 929,
+    "Title": "Add default navigation button properties to NavigationPane"
+  },
+  {
+    "Id": 948,
+    "Title": "Update examples to Beta 2"
+  },
+  {
+    "Id": 955,
+    "Title": "Update read me for beta 2"
+  },
+  {
+    "Id": 971,
+    "Title": "Add RenderMode property GradientPanel"
+  },
+  {
+    "Id": 972,
+    "Title": "Build Warning(s) in GradientBackgroundRender.cs"
+  },
+  {
+    "Id": 973,
+    "Title": "Build Warning(s) in GradientBackgroundRender.cs"
+  },
+  {
+    "Id": 975,
+    "Title": "Build Warning(s) in GradientCaptionRender.cs"
+  },
+  {
+    "Id": 978,
+    "Title": "Build Warning(s) in Ascend.Windows.Forms"
+  },
+  {
+    "Id": 979,
+    "Title": "Add internal rectangle offset properties"
+  },
+  {
+    "Id": 980,
+    "Title": "Tab control"
+  },
+  {
+    "Id": 981,
+    "Title": "Add FooterGradientHighColor"
+  },
+  {
+    "Id": 982,
+    "Title": "Add FooterGradientLowColor"
+  },
+  {
+    "Id": 983,
+    "Title": "Add FooterHighlightGradientHighColor property"
+  },
+  {
+    "Id": 984,
+    "Title": "Add FooterHighlightGradientLowColor property"
+  },
+  {
+    "Id": 985,
+    "Title": "Add FooterActiveGradientLowColor"
+  },
+  {
+    "Id": 986,
+    "Title": "Add FooterActiveGradientHighColor"
+  },
+  {
+    "Id": 993,
+    "Title": "Default value on imagelist not set on NavigationPane"
+  },
+  {
+    "Id": 994,
+    "Title": "Default value shows bold on Footer property"
+  },
+  {
+    "Id": 995,
+    "Title": "GradientRender attribute visibility"
+  },
+  {
+    "Id": 996,
+    "Title": "Add CaptionGradientHighColor property to NavigationPane"
+  },
+  {
+    "Id": 997,
+    "Title": "Add CaptionGradientLowColor property to NavigationPane"
+  },
+  {
+    "Id": 998,
+    "Title": "Add CaptionForeColor property to NavigationPane"
+  },
+  {
+    "Id": 1003,
+    "Title": "Default value shows bold on Caption property"
+  },
+  {
+    "Id": 1004,
+    "Title": "Add CaptionImageAlign property to NavigationPane"
+  },
+  {
+    "Id": 1005,
+    "Title": "Add CaptionTextAlign property to NavigationPane"
+  },
+  {
+    "Id": 1006,
+    "Title": "Add ButtonGradientLowColor to NavigationPane"
+  },
+  {
+    "Id": 1007,
+    "Title": "Add ButtonGradientHighColor to NavigationPane"
+  },
+  {
+    "Id": 1008,
+    "Title": "Add ButtonBorderColor to NavigationPane"
+  },
+  {
+    "Id": 1009,
+    "Title": "Error on navigation customize dialog after changing order and closing."
+  },
+  {
+    "Id": 1010,
+    "Title": "Add SplitBar expanded property to NavigationPane"
+  },
+  {
+    "Id": 1011,
+    "Title": "Add SplitBarGradientHighColor property to NavigationPane"
+  },
+  {
+    "Id": 1012,
+    "Title": "Add SplitBarGradientLowColor property to NavigationPane"
+  },
+  {
+    "Id": 1013,
+    "Title": "Add SplitBarHeight property to NavigationPane"
+  },
+  {
+    "Id": 1014,
+    "Title": "Error on NavigationPanePage remove in design mode"
+  },
+  {
+    "Id": 1016,
+    "Title": "Navigation Pane does'nt work rtl"
+  },
+  {
+    "Id": 1050,
+    "Title": "Panel is partially painted when it contains a child control"
+  },
+  {
+    "Id": 1062,
+    "Title": "Have RightToLeft property in GradientCaption set text align property"
+  },
+  {
+    "Id": 1081,
+    "Title": "SplitBar default property shows bold in navigationPane"
+  },
+  {
+    "Id": 1082,
+    "Title": "Default Button property shows bold on NavigationPane"
+  },
+  {
+    "Id": 1083,
+    "Title": "Add HighlightGradientHighColor property to button in NavigationPane"
+  },
+  {
+    "Id": 1084,
+    "Title": "Add HighlightGradientLowColor property to button in NavigationPane"
+  },
+  {
+    "Id": 1085,
+    "Title": "Add ActiveGradientHighColor property to button in NavigationPane"
+  },
+  {
+    "Id": 1086,
+    "Title": "Add ActiveGradientLowColor property to button in NavigationPane"
+  },
+  {
+    "Id": 1087,
+    "Title": "Test Beta 2 install"
+  },
+  {
+    "Id": 1088,
+    "Title": "Gradient highlight does not use set property colors on menu pop"
+  },
+  {
+    "Id": 1112,
+    "Title": "Update help for beta 2"
+  },
+  {
+    "Id": 1210,
+    "Title": "Add ForeColor to NavigationButton Button property."
+  },
+  {
+    "Id": 1261,
+    "Title": "Add GradientHighColor property to NavigationPanePage"
+  },
+  {
+    "Id": 1262,
+    "Title": "Add GradientLowColor property to NavigationPanePage"
+  },
+  {
+    "Id": 1263,
+    "Title": "Add ForeColor property to NavigationPanePage"
+  },
+  {
+    "Id": 1264,
+    "Title": "Add HighlightGradientHighColor property to NavigationPanePage"
+  },
+  {
+    "Id": 1265,
+    "Title": "Add HighlightGradientLowColor property to NavigationPanePage"
+  },
+  {
+    "Id": 1266,
+    "Title": "Add ActiveGradientHighColor property to NavigationPanePage"
+  },
+  {
+    "Id": 1267,
+    "Title": "Add ActiveGradientLowColor property to NavigationPanePage"
+  },
+  {
+    "Id": 1268,
+    "Title": "Add ButtonFont property to NavigationPane"
+  },
+  {
+    "Id": 1269,
+    "Title": "Add Button expanding Property to NavigationPanePage"
+  },
+  {
+    "Id": 1270,
+    "Title": "Add ButtonFont property to NavigationPanePage"
+  },
+  {
+    "Id": 1271,
+    "Title": "Build Warning(s) in GradientBackgroundRender.cs"
+  },
+  {
+    "Id": 1272,
+    "Title": "Build Warning(s) in GradientBackgroundRender.cs"
+  },
+  {
+    "Id": 1277,
+    "Title": "Add WaterMarkDisplayStyle Property and feature."
+  },
+  {
+    "Id": 1288,
+    "Title": "Add RenderMode enumeration"
+  },
+  {
+    "Id": 1289,
+    "Title": "Virtualize background paint"
+  },
+  {
+    "Id": 1290,
+    "Title": "Add GlassBackgroundRender class"
+  },
+  {
+    "Id": 1291,
+    "Title": "Add FlatBackgroundRender class"
+  },
+  {
+    "Id": 1292,
+    "Title": "Add CreateBackgroundGraphicsPath method"
+  },
+  {
+    "Id": 1293,
+    "Title": "Add CreateCurvedBackgroundGraphicsPath method"
+  },
+  {
+    "Id": 1294,
+    "Title": "Virtualize SetRenderingHints"
+  },
+  {
+    "Id": 1363,
+    "Title": "Add RenderMode property NavigationPane"
+  },
+  {
+    "Id": 1367,
+    "Title": "Text does not use alpha"
+  },
+  {
+    "Id": 1382,
+    "Title": "Text does not render as gray text when disabled and UseCompatibleTextRendering is false"
+  },
+  {
+    "Id": 1383,
+    "Title": "Add protected virtual void CreateBackBrush(Color lowColor, Color highColor)"
+  },
+  {
+    "Id": 1384,
+    "Title": "Add glass render to GadientNavigationButton highlight and active states"
+  },
+  {
+    "Id": 1385,
+    "Title": "Add additional highlight to active and highlight states for glass render"
+  },
+  {
+    "Id": 1386,
+    "Title": "Change render style of active highlight for glass render"
+  },
+  {
+    "Id": 1397,
+    "Title": "WatermarkDisplayStyle default property not set"
+  },
+  {
+    "Id": 1398,
+    "Title": "Add RenderMode property to NavigationPaneRender"
+  },
+  {
+    "Id": 1412,
+    "Title": "Add GradientLine control"
+  },
+  {
+    "Id": 1413,
+    "Title": "Gradient colors do not change on menu gradient when system colors change"
+  },
+  {
+    "Id": 1415,
+    "Title": "Add line to bottom of caption on NavigationPane"
+  },
+  {
+    "Id": 1429,
+    "Title": "Add HighlightTransitionPercent property to GradientPanel"
+  },
+  {
+    "Id": 1430,
+    "Title": "Add HighlightTransitionPercent property to GradientBackgroundRender"
+  },
+  {
+    "Id": 1431,
+    "Title": "Add HighColorLuminance property to GradientPanel"
+  },
+  {
+    "Id": 1432,
+    "Title": "Add HighColorLuminance property to GradientBackgroundRender"
+  },
+  {
+    "Id": 1433,
+    "Title": "Add RightToLeft property to GradientCaptionRender"
+  },
+  {
+    "Id": 1434,
+    "Title": "Add HighlightEdge property to GradientPanel"
+  },
+  {
+    "Id": 1435,
+    "Title": "Add HighlightEdge property to GradientBackgroundRender"
+  },
+  {
+    "Id": 1436,
+    "Title": "Add LowColorLuminance property to GradientBackgroundRender"
+  },
+  {
+    "Id": 1439,
+    "Title": "Add LowColorLuminance property to GradientPanel"
+  },
+  {
+    "Id": 1444,
+    "Title": "Add CaptionBorderColor to NavaigationPane"
+  },
+  {
+    "Id": 1445,
+    "Title": "Add CaptionBorderColor to NavaigationPaneRender"
+  },
+  {
+    "Id": 1453,
+    "Title": "Add RenderMode property to GradientPanel action list."
+  },
+  {
+    "Id": 1454,
+    "Title": "Add RenderMode property to GradientCaption action list."
+  },
+  {
+    "Id": 1455,
+    "Title": "Add RenderMode property to GradientSplitBar action list."
+  },
+  {
+    "Id": 1456,
+    "Title": "Add RenderMode property to GradientNavigationButton action list."
+  },
+  {
+    "Id": 1457,
+    "Title": "Add RenderMode property to NavigationPane action list."
+  },
+  {
+    "Id": 1459,
+    "Title": "Add AntiAlias property to GradientPanel action list."
+  },
+  {
+    "Id": 1460,
+    "Title": "Add GradientHighColor property to GradientCaption action list"
+  },
+  {
+    "Id": 1461,
+    "Title": "Add GradientLowColor property to GradientCaption action list"
+  },
+  {
+    "Id": 1462,
+    "Title": "Add GradientLowColor property to GradientSplitBar action list"
+  },
+  {
+    "Id": 1463,
+    "Title": "Add GradientHighColor property to GradientSplitBar action list"
+  },
+  {
+    "Id": 1464,
+    "Title": "Add RightToLeft property in NavigationPane"
+  },
+  {
+    "Id": 1489,
+    "Title": "Flip high low gradient colors on right to left property change on GradientLine"
+  },
+  {
+    "Id": 1543,
+    "Title": "Add Flat render mode code to GradientBackgroundRender"
+  },
+  {
+    "Id": 1544,
+    "Title": "Add Flat render mode code to GradientNavigationButtonRender"
+  },
+  {
+    "Id": 1586,
+    "Title": "Problem repainting child controls in NavigationPane"
+  },
+  {
+    "Id": 1627,
+    "Title": "Beta 3 examples"
+  },
+  {
+    "Id": 1628,
+    "Title": "Update help for beta 3"
+  },
+  {
+    "Id": 1643,
+    "Title": "Make TabStop property default to false GradientPanel"
+  },
+  {
+    "Id": 1645,
+    "Title": "Make TabStop property default to false GradientLine"
+  },
+  {
+    "Id": 1646,
+    "Title": "Make GradientMode property default to Horizontal GradientLine"
+  },
+  {
+    "Id": 1647,
+    "Title": "Remove design time border from GradientLine"
+  },
+  {
+    "Id": 1648,
+    "Title": "Add ShowFocus method GradientNavigationButton"
+  },
+  {
+    "Id": 1649,
+    "Title": "Add FocusHighlight property to GradientNavigationButton"
+  },
+  {
+    "Id": 1652,
+    "Title": "Add focus code to GradientNavigationButton"
+  },
+  {
+    "Id": 1654,
+    "Title": "Add private SetFontFamily method"
+  },
+  {
+    "Id": 1661,
+    "Title": "Add RightToLeft property to GradientPanel"
+  },
+  {
+    "Id": 1662,
+    "Title": "Test beta 3 install"
+  },
+  {
+    "Id": 1663,
+    "Title": "Make Caption Property design only"
+  },
+  {
+    "Id": 1664,
+    "Title": "Make Footer Property design only"
+  },
+  {
+    "Id": 1733,
+    "Title": "Default value for Font shows bold NavigationPane"
+  },
+  {
+    "Id": 1734,
+    "Title": "Default value for Image shows bold NavigationPanePage"
+  },
+  {
+    "Id": 1735,
+    "Title": "Default value for ImageKey shows bold NavigationPanePage"
+  },
+  {
+    "Id": 1736,
+    "Title": "Add MinimizedWidth property to NavigationPane"
+  },
+  {
+    "Id": 1737,
+    "Title": "Add IsMinimized property to NavigationPane"
+  },
+  {
+    "Id": 1738,
+    "Title": "Add Minimize method to NavigationPane"
+  },
+  {
+    "Id": 1739,
+    "Title": "A SmallImageList property to NavigationPane"
+  },
+  {
+    "Id": 1750,
+    "Title": "Add Maximize method to NavigationPane"
+  },
+  {
+    "Id": 1796,
+    "Title": "Parent font not inherited from parent on NavigationPane"
+  },
+  {
+    "Id": 1798,
+    "Title": "Add SplitBar property reset NavigationPane"
+  },
+  {
+    "Id": 1799,
+    "Title": "Add Caption property reset NavigationPane"
+  },
+  {
+    "Id": 1800,
+    "Title": "Add Footer property reset NavigationPane"
+  },
+  {
+    "Id": 1801,
+    "Title": "Add Button property reset NavigationPane"
+  },
+  {
+    "Id": 1819,
+    "Title": "Caption font not inheriting parent font correctly"
+  },
+  {
+    "Id": 1820,
+    "Title": "Button font not inheriting parent font correctly"
+  },
+  {
+    "Id": 1821,
+    "Title": "Research SandCastle"
+  },
+  {
+    "Id": 1822,
+    "Title": "Support alpha channel images if from ImageList"
+  },
+  {
+    "Id": 1827,
+    "Title": "Change initialization to inherit default font GradientCaption"
+  },
+  {
+    "Id": 1828,
+    "Title": "Add custom image based drop down to RenderMode property"
+  },
+  {
+    "Id": 1830,
+    "Title": "Add ShowAnimation property NavigationPane"
+  },
+  {
+    "Id": 1831,
+    "Title": "Add AnimationSpeed property NavigationPane"
+  },
+  {
+    "Id": 1832,
+    "Title": "Add Minimized event to NavigationPane"
+  },
+  {
+    "Id": 1833,
+    "Title": "Add Maximized event to NavigationPane"
+  },
+  {
+    "Id": 1834,
+    "Title": "Add AllowMinimize property to NavigationPane"
+  },
+  {
+    "Id": 1868,
+    "Title": "Build warning on install"
+  },
+  {
+    "Id": 1875,
+    "Title": "Add Deselected event to GradientNavigationButton"
+  },
+  {
+    "Id": 1876,
+    "Title": "Add Deselecting event to GradientNavigationButton"
+  },
+  {
+    "Id": 1877,
+    "Title": "Add Selected event to GradientNavigationButton"
+  },
+  {
+    "Id": 1878,
+    "Title": "Add Selecting event to GradientNavigationButton"
+  },
+  {
+    "Id": 1880,
+    "Title": "Flip high and low gradient colors based on RightToLeft setting on GradientPanel"
+  },
+  {
+    "Id": 1888,
+    "Title": "Add GradientNavigationButtonCancelEventArgs class."
+  },
+  {
+    "Id": 1889,
+    "Title": "Add GradientNavigationButtonAction enum"
+  },
+  {
+    "Id": 1890,
+    "Title": "Add GradientNavigationButtonEventArgs class."
+  },
+  {
+    "Id": 1902,
+    "Title": "Default values for button showing bold on NavigationPanePage"
+  },
+  {
+    "Id": 1903,
+    "Title": "Add ShouldSerializeButton method to NavigationPanePage"
+  },
+  {
+    "Id": 1904,
+    "Title": "Add ResetButton method to NavigationPanePage"
+  },
+  {
+    "Id": 1936,
+    "Title": "Research Unit testing for UI type controls"
+  },
+  {
+    "Id": 1952,
+    "Title": "Add ButtonTextAlignment property to NavigationPane"
+  },
+  {
+    "Id": 1953,
+    "Title": "Add ButtonImageAlignment property to NavigationPane"
+  },
+  {
+    "Id": 1954,
+    "Title": "Add ButtonTextAlignment property to NavigationPaneRender"
+  },
+  {
+    "Id": 1955,
+    "Title": "Add ButtonImageAlignment property to NavigationPaneRender"
+  },
+  {
+    "Id": 1984,
+    "Title": "Move Text property to Button expanded property in NavigationPanePage"
+  },
+  {
+    "Id": 1985,
+    "Title": "Move TextAlign property to Button expanded property in NavigationPanePage"
+  },
+  {
+    "Id": 1986,
+    "Title": "Move Image property to Button expanded property in NavigationPanePage"
+  },
+  {
+    "Id": 1987,
+    "Title": "Move ImageAlign property to Button expanded property in NavigationPanePage"
+  },
+  {
+    "Id": 1988,
+    "Title": "Move ImageIndex property to Button expanded property in NavigationPanePage"
+  },
+  {
+    "Id": 1989,
+    "Title": "Move ImageKey property to Button expanded property in NavigationPanePage"
+  },
+  {
+    "Id": 2005,
+    "Title": "Move ToolTipText property to button property in NavigationPanePage"
+  },
+  {
+    "Id": 2006,
+    "Title": "Add ButtonTextAlign property to NavigationPaneRender"
+  },
+  {
+    "Id": 2007,
+    "Title": "Add private SetDefaultButtonImageAlign method to NavigationPane"
+  },
+  {
+    "Id": 2037,
+    "Title": "Add private SetDefaultButtonGradientHighColor method to NavigationPane"
+  },
+  {
+    "Id": 2038,
+    "Title": "Add private SetDefaultButtonGradientLowColor method to NavigationPane"
+  },
+  {
+    "Id": 2039,
+    "Title": "Add private SetDefaultButtonHighlightGradientHighColor method to NavigationPane"
+  },
+  {
+    "Id": 2040,
+    "Title": "Add private SetDefaultButtonHighlightGradientLowColor method to NavigationPane"
+  },
+  {
+    "Id": 2041,
+    "Title": "Add private SetDefaultButtonActiveGradientHighColor method to NavigationPane"
+  },
+  {
+    "Id": 2042,
+    "Title": "Add private SetDefaultButtonActiveGradientLowColor method to NavigationPane"
+  },
+  {
+    "Id": 2043,
+    "Title": "Add private SetDefaultButtonForeColor method to NavigationPane"
+  },
+  {
+    "Id": 2044,
+    "Title": "Add private SetDefaultButtonFont method to NavigationPane"
+  },
+  {
+    "Id": 2045,
+    "Title": "Add ShouldSerializeForeColor method to NavigationPanePageButtonProperty"
+  },
+  {
+    "Id": 2046,
+    "Title": "Add ShouldSerializeGradientHighColor method to NavigationPanePageButtonProprty"
+  },
+  {
+    "Id": 2047,
+    "Title": "Add ShouldSerializeGradientLowColor method to NavigationPanePageButtonProperty"
+  },
+  {
+    "Id": 2053,
+    "Title": "Add ShouldSerializeActiveGradientHighColor method to NavigationPanePageButtonProperty"
+  },
+  {
+    "Id": 2059,
+    "Title": "Add ShouldSerializeActiveGradientLowColor method to NavigationPanePageButtonProperty"
+  },
+  {
+    "Id": 2060,
+    "Title": "Add ShouldSerializeGradientHighlightHighColor method to NavigationPanePageButtonProprty"
+  },
+  {
+    "Id": 2061,
+    "Title": "Add ShouldSerializeGradientHighlightLowColor method to NavigationPanePageButtonProprty"
+  },
+  {
+    "Id": 2145,
+    "Title": "Add Highlighted event to GradientNavigationButton"
+  },
+  {
+    "Id": 2146,
+    "Title": "Add Dehighlighted event to GradientNavigationButton"
+  },
+  {
+    "Id": 2151,
+    "Title": "Add ShowDisabledBackgroundColor property to GradientPanel"
+  },
+  {
+    "Id": 2156,
+    "Title": "Add ShowBorderOnHighlight property to GradientNavigationButton"
+  },
+  {
+    "Id": 2229,
+    "Title": "Change strong designer attribute references to string references"
+  },
+  {
+    "Id": 2242,
+    "Title": "Add localizable attribute to internal object Font properties in NavigationPane"
+  },
+  {
+    "Id": 2277,
+    "Title": "Add ButtonImageInFooter property to NavigationPane"
+  },
+  {
+    "Id": 2278,
+    "Title": "Add ImageListSmall property to NavigationPane"
+  },
+  {
+    "Id": 2279,
+    "Title": "Add ImageListButton property to NavigationPane"
+  },
+  {
+    "Id": 2280,
+    "Title": "Add expanding Footer property to NavigationPanePage"
+  },
+  {
+    "Id": 2281,
+    "Title": "Add ImageFooter property to NavigationPanePage"
+  },
+  {
+    "Id": 2282,
+    "Title": "Add ImageIndexFooter property to NavigationPanePage"
+  },
+  {
+    "Id": 2283,
+    "Title": "Add ImageKeyFooter property to NavigationPanePage"
+  },
+  {
+    "Id": 2284,
+    "Title": "Add GradientSplitContainer control"
+  },
+  {
+    "Id": 2288,
+    "Title": "Make french translation"
+  },
+  {
+    "Id": 2316,
+    "Title": "Add ImageListSmall property to NavigationPanePage"
+  },
+  {
+    "Id": 2320,
+    "Title": "Move ImageList to Button expanding property NavigationPanePage"
+  },
+  {
+    "Id": 2326,
+    "Title": "Problem with resizing on NavigationPane"
+  },
+  {
+    "Id": 2343,
+    "Title": "Make VisibleButtonCount a designable property"
+  },
+  {
+    "Id": 2347,
+    "Title": "Add ImageFooter property to NavigationPanePage"
+  },
+  {
+    "Id": 2348,
+    "Title": "Add OnImageIndexFooterChanged to NavigationPanePage"
+  },
+  {
+    "Id": 2350,
+    "Title": "Add ImageIndexFooterChanged event to NavigationPanePage"
+  },
+  {
+    "Id": 2351,
+    "Title": "Add NavigationPanePageFooterConverter class"
+  },
+  {
+    "Id": 2352,
+    "Title": "ImageKey cannot be set back to none GradientCaption"
+  },
+  {
+    "Id": 2354,
+    "Title": "Do not dispose of image from image list GradientCaption."
+  },
+  {
+    "Id": 2355,
+    "Title": "Clear Image property if image index is set to none GradientCaption"
+  },
+  {
+    "Id": 2356,
+    "Title": "Add IsImageFromImageList to GradientCaptionRender"
+  },
+  {
+    "Id": 2357,
+    "Title": "Test beta 4 install"
+  },
+  {
+    "Id": 2358,
+    "Title": "Update beta 4 documents"
+  },
+  {
+    "Id": 2359,
+    "Title": "Update help for beta 4"
+  },
+  {
+    "Id": 2360,
+    "Title": "ImageKey cannot be set back to none NavigationPanePage"
+  },
+  {
+    "Id": 2361,
+    "Title": "Add ShouldSerializeFooter method to NavigationPanePage"
+  },
+  {
+    "Id": 2431,
+    "Title": "Update Chinese Translation to beta 4"
+  },
+  {
+    "Id": 2438,
+    "Title": "Add ShouldSerializeButtonFont to NavigationPanePageButtonProperty"
+  },
+  {
+    "Id": 2439,
+    "Title": "Add ResetButtonFont method to NavigationPanePageButtonProprty"
+  },
+  {
+    "Id": 2440,
+    "Title": "Update install for beta 4"
+  },
+  {
+    "Id": 2441,
+    "Title": "Add Font to GradientPanel"
+  },
+  {
+    "Id": 2442,
+    "Title": "Add ForeColor to GradientPanel"
+  },
+  {
+    "Id": 2543,
+    "Title": "Helpfile for beta 4 is not working at all"
+  },
+  {
+    "Id": 2627,
+    "Title": "Add SettingsBindableAttribute(true) to SelectedIndex NavigationPane"
+  },
+  {
+    "Id": 2628,
+    "Title": "Add SettingsBindableAttribute(true) to VisibleButtonCount NavigationPane"
+  },
+  {
+    "Id": 2629,
+    "Title": "Hide NavigationPanePage property from property grid"
+  },
+  {
+    "Id": 2630,
+    "Title": "Resize NavigationPanePages on parent font change"
+  },
+  {
+    "Id": 2631,
+    "Title": "Wrong default navigation pane shown when run right after adding control"
+  },
+  {
+    "Id": 2689,
+    "Title": "Setup defaults to chinese on non-us systems"
+  },
+  {
+    "Id": 2805,
+    "Title": "Remove image from context menu item when navigation pane is hidden"
+  },
+  {
+    "Id": 2872,
+    "Title": "Add install to toolbox screen to install"
+  },
+  {
+    "Id": 2873,
+    "Title": "Branch code for start of German translation"
+  },
+  {
+    "Id": 2874,
+    "Title": "German translation"
+  },
+  {
+    "Id": 2896,
+    "Title": "Add custom action class to install"
+  },
+  {
+    "Id": 2897,
+    "Title": "Add icon to install/uninstall"
+  },
+  {
+    "Id": 3240,
+    "Title": "Add HidePrefix property to GradientCaption"
+  },
+  {
+    "Id": 3249,
+    "Title": "Re-open of 1586 (repaint issue)"
+  },
+  {
+    "Id": 3527,
+    "Title": "Add extra ampersand to existing ampersand in passed text if HidePrefix property is true."
+  },
+  {
+    "Id": 3537,
+    "Title": "Replace foreach loops with for to better support dynamic addition of panes"
+  },
+  {
+    "Id": 3538,
+    "Title": "NavigationPanePage does not resize correctly when button is hidden"
+  },
+  {
+    "Id": 3808,
+    "Title": "Button render incorrect after navigation pane collection clear"
+  },
+  {
+    "Id": 3809,
+    "Title": "Add InternalName property to NavigationPanePage."
+  },
+  {
+    "Id": 3814,
+    "Title": "Update examples for RC1"
+  },
+  {
+    "Id": 3815,
+    "Title": "Update help file for RC1"
+  },
+  {
+    "Id": 3816,
+    "Title": "Test install fro RC1"
+  },
+  {
+    "Id": 3824,
+    "Title": "Combine all translations into 1 source and install"
+  },
+  {
+    "Id": 3838,
+    "Title": "Remove of navigation pane page does not decrease visible button count."
+  },
+  {
+    "Id": 3923,
+    "Title": "Branch code for version 1.0.0.6 production"
+  },
+  {
+    "Id": 3928,
+    "Title": "Add StayActiveAfterClick property to GradientNavigationButton"
+  },
+  {
+    "Id": 4013,
+    "Title": "Update help for 1.x RTM"
+  },
+  {
+    "Id": 4014,
+    "Title": "Update examples for 1.x RTM"
+  },
+  {
+    "Id": 4015,
+    "Title": "Update documents for 1.x RTM"
+  },
+  {
+    "Id": 4016,
+    "Title": "Test install for 1.x RTM"
+  },
+  {
+    "Id": 4133,
+    "Title": "When removing navigation pane page at runtime the page is not removed from parent control."
+  },
+  {
+    "Id": 4136,
+    "Title": "Look into actual transparent background"
+  },
+  {
+    "Id": 4149,
+    "Title": "Add UnsafeNativeMethods class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 4150,
+    "Title": "Add SafeNativeMethods class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 4151,
+    "Title": "Add GradientSplitter class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 4152,
+    "Title": "Add GradientSplitterCancelEventArgs class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 4153,
+    "Title": "Add GradientSplitterEventArgs class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 4159,
+    "Title": "Add NativeMethods class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 4162,
+    "Title": "Add PaintControl class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 4164,
+    "Title": "Add GradientSplitterDesigner class to Ascend.Design"
+  },
+  {
+    "Id": 4165,
+    "Title": "Add GradientSplitterActionList class to Ascend.Design"
+  },
+  {
+    "Id": 4235,
+    "Title": "The Ascend.NET english help file doesn't have the .chm extension when downloaded from the site."
+  },
+  {
+    "Id": 4236,
+    "Title": "Add documentation and web site  to the Ascend component list."
+  },
+  {
+    "Id": 4256,
+    "Title": "Update Chinese release to 1.x"
+  },
+  {
+    "Id": 4359,
+    "Title": "Have navigation buttons automatically minimize relative to NavigationPane height"
+  },
+  {
+    "Id": 4360,
+    "Title": "Support vertical text"
+  },
+  {
+    "Id": 4393,
+    "Title": "Add InternalSecurity class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 4401,
+    "Title": "Add GradientTabDesigner class to Ascend.Design"
+  },
+  {
+    "Id": 4402,
+    "Title": "Add GradientTabActionList class to Ascend.Design"
+  },
+  {
+    "Id": 4403,
+    "Title": "Add GradientTabPageActionList class to Ascend.Design"
+  },
+  {
+    "Id": 4404,
+    "Title": "Add GradientTabPageDesigner class to Ascend.Design"
+  },
+  {
+    "Id": 4478,
+    "Title": "Research Wix 3.0"
+  },
+  {
+    "Id": 4479,
+    "Title": "Add Wix 3.0 based install project"
+  },
+  {
+    "Id": 4480,
+    "Title": "Add development tools list to website"
+  },
+  {
+    "Id": 4481,
+    "Title": "Add post build event to solution to copy dlls to Wix project directory"
+  },
+  {
+    "Id": 4482,
+    "Title": "Add UI to Wix install"
+  },
+  {
+    "Id": 4502,
+    "Title": "Add .Net 2.0 detect to Wix install"
+  },
+  {
+    "Id": 4503,
+    "Title": "Add Visual Studio 2005 detect to Wix install"
+  },
+  {
+    "Id": 4504,
+    "Title": "Add license to Wix install"
+  },
+  {
+    "Id": 4505,
+    "Title": "Add registry update to Wix install"
+  },
+  {
+    "Id": 4531,
+    "Title": "Add help to Wix install"
+  },
+  {
+    "Id": 4532,
+    "Title": "Add custom bitmaps to Wix install"
+  },
+  {
+    "Id": 4600,
+    "Title": "Add GAC registry to Wix install"
+  },
+  {
+    "Id": 4604,
+    "Title": "Start using common assembly build number with a progressive file build number"
+  },
+  {
+    "Id": 4630,
+    "Title": "Add documentation XML files to Wix install"
+  },
+  {
+    "Id": 4686,
+    "Title": "Add version to assembly name so that multiple assembly version can be used concurrently."
+  },
+  {
+    "Id": 4711,
+    "Title": "Add localization to Wix install"
+  },
+  {
+    "Id": 4819,
+    "Title": "Remove GlassBackgroundRender class from Ascend.Windows.Forms."
+  },
+  {
+    "Id": 4820,
+    "Title": "Bumps do not center on resize of GradientSplitter."
+  },
+  {
+    "Id": 4830,
+    "Title": "Small problem in Sharpdevelop 2"
+  },
+  {
+    "Id": 4831,
+    "Title": "Text property missing from NavigationPanePage"
+  },
+  {
+    "Id": 4832,
+    "Title": "Image property missing from NavigationPanePage"
+  },
+  {
+    "Id": 4916,
+    "Title": "Add the XpProgressBar Control"
+  },
+  {
+    "Id": 5203,
+    "Title": "Add DropDownTreeView control"
+  },
+  {
+    "Id": 5208,
+    "Title": "Add DesignerCategory attribute to controls"
+  },
+  {
+    "Id": 5288,
+    "Title": "GradientNavigationButton.Active incorrectly set"
+  },
+  {
+    "Id": 5717,
+    "Title": "Center Text on GradientNavigationButton"
+  },
+  {
+    "Id": 5829,
+    "Title": "Add GradientTabPage class"
+  },
+  {
+    "Id": 5831,
+    "Title": "Add GradientTab class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 5840,
+    "Title": "Add GradientTabPageCollection class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 5846,
+    "Title": "Add GradientTabCancelEventArgs class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 5867,
+    "Title": "Add GradientTabEventArgs class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 5869,
+    "Title": "Add GradientTab icon to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 5870,
+    "Title": "Add GradientTabRender class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 5894,
+    "Title": "Update install for November CTP"
+  },
+  {
+    "Id": 5951,
+    "Title": "Add GradientTabPageRender class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 5952,
+    "Title": "Add GradientTabPageTabProperty class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 5953,
+    "Title": "Add GradientTabPageTabConverter class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 6115,
+    "Title": "Add GradientTabTabProperty class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 6116,
+    "Title": "Add GradientTabTabConverter class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 6160,
+    "Title": "Add GradientTabSizeMode enum to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 6165,
+    "Title": "Add GradientTabAlignment enum to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 6248,
+    "Title": "Add AutoSize property to GradientCaption"
+  },
+  {
+    "Id": 6428,
+    "Title": "Set focus to navigation pane panel properties on button click in design mode."
+  },
+  {
+    "Id": 6439,
+    "Title": "Select navigation button only on left click"
+  },
+  {
+    "Id": 6606,
+    "Title": "Add GradientExplorerPaneDesigner class to Ascend.Design"
+  },
+  {
+    "Id": 6607,
+    "Title": "Add GradientExplorerPaneActionList class Ascend.Design"
+  },
+  {
+    "Id": 6608,
+    "Title": "Add GradientExplorerPane class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 6609,
+    "Title": "Add GradientExplorerPanePage class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 6610,
+    "Title": "Add GradientExplorerPanePageActionList class to Ascend.Design"
+  },
+  {
+    "Id": 6611,
+    "Title": "Add GradientExplorerPanePageDesigner class to Ascend.Design"
+  },
+  {
+    "Id": 6612,
+    "Title": "Add GradientExplorerPaneRender class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 6613,
+    "Title": "Add GradientExplorerPanePageRender class to Ascend.Windows.Forms"
+  },
+  {
+    "Id": 6615,
+    "Title": "Don't show arrows for tab scrolling if only 1 tab shown"
+  },
+  {
+    "Id": 6616,
+    "Title": "Tabs added in design mode are not always retained at runtime."
+  },
+  {
+    "Id": 6617,
+    "Title": "Default text not added automatically to navigation button when added from collection editor"
+  },
+  {
+    "Id": 6618,
+    "Title": "Default text not added automatically to tab when added from collection editor"
+  },
+  {
+    "Id": 7010,
+    "Title": "Increase width of selected tab by 2 pixels if it is left most tab"
+  },
+  {
+    "Id": 9213,
+    "Title": "AddRange with Navigationpanes problem"
+  },
+  {
+    "Id": 11157,
+    "Title": "Something basic is missing: Text property"
+  },
+  {
+    "Id": 15038,
+    "Title": "Fix display behavior when nav pane is resized to a very short height"
+  },
+  {
+    "Id": 16416,
+    "Title": "Add Visual Studio ToolBox Integration für Ascend.Net Setup"
+  },
+  {
+    "Id": 20400,
+    "Title": "Controls are getting added to Non-Visual tray in Sharp Develop."
+  },
+  {
+    "Id": 28718,
+    "Title": "doesn't work with vs2010"
+  },
+  {
+    "Id": 30342,
+    "Title": "Can not drop controls on designer in Visual Studio 2010"
+  },
+  {
+    "Id": 30343,
+    "Title": "Can not drop controls on designer in Visual Studio 2010"
+  },
+  {
+    "Id": 33722,
+    "Title": "Components Not Showing or Working"
+  }
+]

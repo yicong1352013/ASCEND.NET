@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "2372",
+    "ThreadId": "760",
+    "Html": "\r\nHi, I just started playing around with Ascend.Net and it looks fantastic, and everything works as advertised, but... <br />When I tried to use the GradientSplitBar it doesn't behave as I would expect a splitter to, i.e. it doesn't respond to drag events by re-sizing the control that it is docked to the right of (unlike a regular windows forms splitter).  Am I missing something or is this a fault?<br />Thanks,<br />Mat<br />",
+    "PostedDate": "2006-08-15T01:40:36.607-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "2378",
+    "ThreadId": "760",
+    "Html": "\r\nNo, sorry, it’s just a control that looks like a split bar. I should have named it something else. I've used it as a part of larger controls. The NavigationPane would be the only public one.<br /><br />I’ve considered making it an actual split bar control much like the old 1.1 control. I’ve also considered making a gradient split container control that could show this type of splitter. Neither would be a large amount of work. Do you think either would be worth the effort?<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-08-15T06:26:39.91-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "2559",
+    "ThreadId": "760",
+    "Html": "\r\nI'll can bo work on a SplitContainer (same behavior than System.Windows.Forms.SplitContainer)...<br /><br />Sébastien.<br />",
+    "PostedDate": "2006-08-16T04:19:00.69-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "2571",
+    "ThreadId": "760",
+    "Html": "\r\nSounds great Sébastien. I'm thinking the panel could have the gradient rendering available and the split bar can have this split bar rendering if wanted. :-)<br />",
+    "PostedDate": "2006-08-16T06:01:56.047-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "2830",
+    "ThreadId": "760",
+    "Html": "\r\nA SplitContainer control would really be great to have. I find that it is one of the controls I use most often. So please make a Gradient version of this using the GradientSplitBar control.<br />",
+    "PostedDate": "2006-08-17T04:07:35.48-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

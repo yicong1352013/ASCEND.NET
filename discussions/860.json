@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "2806",
+    "ThreadId": "860",
+    "Html": "\r\nSebmafate pointed out that if I remove the strong references to the designer classes and replace them with a  string reference I would no longer need to reference the Ascend.Design dll in Ascend.Windows.Forms to compile.  This makes the solution compile like any normal solution now.<br />",
+    "PostedDate": "2006-08-16T20:06:56.097-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

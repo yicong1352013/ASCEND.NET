@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1727",
+    "ThreadId": "563",
+    "Html": "\r\nIn beta 2 we added Deselecting as an event on the NavigationPane. If you attach to this event you can use NavigationPaneCancelEventArgs.Cancel parameter to stop the selected button from becoming current.<br /><br />Example:<br /><br />private void navigationPane1_Deselecting(object sender, Ascend.Windows.Forms.NavigationPaneCancelEventArgs e)<br />{<br />    DialogResult result = MessageBox.Show(this, \"Do you want to change tabs?\", \"Test\", MessageBoxButtons.YesNo, MessageBoxIcon.Question);<br />    if (result == DialogResult.No)<br />    {<br />        e.Cancel = true;<br /><br />    }<br /><br />}<br />",
+    "PostedDate": "2006-07-31T09:43:28.08-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

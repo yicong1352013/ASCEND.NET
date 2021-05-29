@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientCaption",
+      "DisplayName": "GradientCaption"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-07-08T09:40:49.25-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Set to false by default.Use TextRenderer class if false. Use GDI+ if true.",
+    "LastUpdatedDate": "2017-11-27T13:01:30.933-08:00",
+    "PlannedForRelease": "1.x - 2 Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-07-08T05:48:07.997-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add UseCompatibleTextRendering property to GradientCaption",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 0,
+    "Id": 833
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

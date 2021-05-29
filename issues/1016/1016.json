@@ -1,0 +1,65 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "NavigationPane",
+      "DisplayName": "NavigationPane"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-07-18T20:26:05.147-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Right to Left property for navigation pane does'nt work properly",
+    "LastUpdatedDate": "2013-05-16T02:19:40.69-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-07-16T21:52:40.533-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Navigation Pane does'nt work rtl",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 1016
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "This will be taken care of in Beta 2. All text may be aligned right. I'm not sure if we should just align all right when the right to left is set to true?",
+      "PostedDate": "2006-07-17T12:03:54.173-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "Moved to work item 1062",
+      "PostedDate": "2006-07-18T20:25:55.567-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-07-18T20:26:05.147-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:24.67-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-16T02:19:40.69-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

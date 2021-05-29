@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "4267",
+    "ThreadId": "1308",
+    "Html": "\r\nI think a neat control to add would be something like we see in Mac OSX - the fisheye navigation control.  You can see it also at the dojo project: http://dojotoolkit.org/<br />",
+    "PostedDate": "2006-09-08T13:23:28.75-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "4304",
+    "ThreadId": "1308",
+    "Html": "\r\nI like that control. :-)  Off hand it doesn’t seem too hard to implement. I think I’ll add it to my list of controls to do in the near future.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-09-09T06:02:17.467-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "4410",
+    "ThreadId": "1308",
+    "Html": "\r\nJust off the top of your head, any ideas on how you will implement it?  I've been looking for some open-source fisheye-like control and haven't found any.  Have you seen or heard of anything out there?<br />",
+    "PostedDate": "2006-09-11T10:16:24.833-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "4478",
+    "ThreadId": "1308",
+    "Html": "\r\nI’ve not heard of anyone doing this control. I may find that GDI+ cannot scale the image smoothly enough but the challenge sounds fun. <br /><br />I will work on a design soon. A custom render on the stock toolbar may be doable but may not be the way to go. I will have to do a proof on concept before I know what can and can’t be done.<br /><br />I’m afraid progress on the controls has slowed considerably in the last 2 months. My day job has expanded to most waking hours in order to meet a deadline. This will be over (I think) by the end of the month and I can get back to what I enjoy, working on the controls. <br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-09-12T09:39:08.393-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

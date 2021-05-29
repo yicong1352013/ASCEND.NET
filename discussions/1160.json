@@ -1,0 +1,90 @@
+[
+  {
+    "Id": "3703",
+    "ThreadId": "1160",
+    "Html": "\r\nHi,<br /><br />I suggest to take a look at the \"mentas Ribbon controls\"... take a look at his blog :<br /><br />http://mentas.spaces.msn.com/<br /><br />Download it at:<br />http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=7858DBB6-6F4A-4A9D-B1B4-03C73AA16D15<br /><br />It will be great to invite Mentas to join his force to your project ;-)<br /><br />Thx<br />",
+    "PostedDate": "2006-08-30T23:31:45.157-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3704",
+    "ThreadId": "1160",
+    "Html": "\r\nI know this control.<br /><br />I've post a blog on it a few week ago.<br /><br />ref : http://blogs.developpeur.org/sebmafate/archive/2006/07/12/un<i>ruban</i>dans<i>vos</i>applications.aspx<br /><br />",
+    "PostedDate": "2006-08-31T00:13:54.383-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3705",
+    "ThreadId": "1160",
+    "Html": "\r\noops...<br /><br /><a href=\"http://blogs.developpeur.org/sebmafate/archive/2006/07/12/un_ruban_dans_vos_applications.aspx\" class=\"externalLink\">http://blogs.developpeur.org/sebmafate/archive/2006/07/12/un_ruban_dans_vos_applications.aspx<span class=\"externalLinkIcon\" style=\"font-family:Consolas, Courier New, Courier, Monospace;\"></span></a><br />",
+    "PostedDate": "2006-08-31T00:15:28.787-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3788",
+    "ThreadId": "1160",
+    "Html": "\r\nCe serait bien de l intégrer non ? :-D<br />",
+    "PostedDate": "2006-09-01T02:19:42.957-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3803",
+    "ThreadId": "1160",
+    "Html": "\r\nI will go into why I would like to integrate this control into the project over the weekend. :-)<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-09-01T06:05:33.653-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3891",
+    "ThreadId": "1160",
+    "Html": "\r\nMentas does great work. I ask him if he would like to join this project but did not hear back from him. <br /><br />With the ribbon control I would like to have a complete control. This would include the large tooltips, ribbon bar collapse on double click, collapse of internal panels relative to width and complete designers. I also think having a complete set of tools in one location will be good for the community. I know there are a lot of controls that could be done and sometimes I think we should be working on a lot of smaller controls rather than a few large controls. I have held off on a lot of smaller controls like mask text boxes that actually work correctly with dates and numbers unlike the current 2.0 .Net. because I have been waiting on MS to release their service pack for 2.0. I keep hoping they will fix some of the current controls shortcomings. <br /><br />There are also personal reasons for wanting to do the RibbonBar. Basically it is the challenge of the large controls. As a consultant too many of my days are spent doing get the data, show the data, save the data. I need to keep myself challenged all the time to stay happy as a programmer otherwise it is nothing but boredom. <br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-09-03T09:49:39.45-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6572",
+    "ThreadId": "1160",
+    "Html": "\r\nHi Scorn,<br />I ask Mentas again for integrate his ribbon in a control suite, and he told me that the source is free usable and I can integrate in a suite..<br />This is the mail:<br />\"No updated... But you can update and make it better!<br />Yes, you can integrate it in the suite. :)<br /><br />Gustavo Arranhado\"<br /><br />So I think it's possible to add this control to Ascend with code improvement. Wath do tou think about this?<br /><br />Thanks<br />Fabrizio<br />",
+    "PostedDate": "2006-10-30T02:30:42.907-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6588",
+    "ThreadId": "1160",
+    "Html": "\r\nSounds good to me. He does good work. I’m always open to more controls. Especially when a lot of the work is already done.  :-)<br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2006-10-30T09:30:37.24-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "7547",
+    "ThreadId": "1160",
+    "Html": "\r\nAwesome controls! I just started on WinForms (been doing WebForms for over 2 years but a new job has put me into the WinForms world) and I really like how easy these controls have been to use. When will the ribbon control be available though? It looks like that CTP was scheduled to be released but the RTM version I downloaded doesn't include it :(<br />",
+    "PostedDate": "2006-11-15T09:24:28.623-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8017",
+    "ThreadId": "1160",
+    "Html": "\r\nSorry for the delay. <br /><br />I need to go over the new licensing that Microsoft has done in relation to the ribbon control. They provide a pretty good service for us here at codeplex and I want to make sure I meet their requirements.<br /><br />Here is a link to what I’m talking about.<br />http://msdn2.microsoft.com/en-us/office/aa973809.aspx <br /><br />We will do a ribbon control and by meeting these requirements we’ll stay in Microsoft’s good grace and have a very complete control. It is not a small undertaking and is the reason I’ve been placing it in version 2 of the controls. :-)<br /><br />Thanks,<br />Scott<br /><br /><br />",
+    "PostedDate": "2006-11-23T08:28:00.977-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "10138",
+    "ThreadId": "1160",
+    "Html": "\r\nHey there I am very much intrigued by this control and what to learn how to modify it further to mimic the office 2007 control do you have a blog somewhere and do you document what you do as build up the control I would be very much interested to learn <br />",
+    "PostedDate": "2006-12-31T04:30:13.873-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

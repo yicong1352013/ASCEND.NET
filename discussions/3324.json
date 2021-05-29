@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "10516",
+    "ThreadId": "3324",
+    "Html": "\r\nOne of the controls that I have always felt that Microsoft should provide is that little old message box that tells you something useful and gives you the option to never see it again.  I can't tell you how many times it would be a handy control to have!<br /><br />I understand one of the difficulties with this control is determining if the user has elected to never see the message again, but if a required property on the constructer were the path to a registry key to hold this value it would work well enough.<br />",
+    "PostedDate": "2007-01-04T19:37:46.717-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

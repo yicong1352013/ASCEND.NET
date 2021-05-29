@@ -1,0 +1,66 @@
+[
+  {
+    "Id": "6419",
+    "ThreadId": "2040",
+    "Html": "\r\nThis is my first post so I apologize if I make mistakes.<br />Previous version of Ascend controls worked well in sharpdevelop 2 both at design and runtime, but with latest version what is missing is the design time appearance.<br />If I drag and drop any Ascend control onto the form the control appears in the component bar...<br />In visual studio 2005 everything works fine.<br />thanks in advance.<br /><br />",
+    "PostedDate": "2006-10-26T10:50:29.357-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6437",
+    "ThreadId": "2040",
+    "Html": "\r\nThis discussion has been copied to Work Item 4830. You may wish to continue further discussion there.<br />",
+    "PostedDate": "2006-10-26T17:27:10.693-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6438",
+    "ThreadId": "2040",
+    "Html": "\r\nI put this into the work items so it wouldn't get forgotten.<br /><br />I noticed this when version 2 of SharpDevelope released a new beta a while back. I figured it was a bug in that beta and never got back to testing in it again. I think I know what happened and I will test to confirm tonight.<br /><br />Thanks,<br />Scorn<br /><br />",
+    "PostedDate": "2006-10-26T17:34:34.903-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6530",
+    "ThreadId": "2040",
+    "Html": "\r\nJust a quick update on this.<br /><br />I've found the problem and I posted a question to the SharpDevelop people to see if we can get it resolved. I'll keep you up to date.<br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2006-10-28T21:02:51.54-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6583",
+    "ThreadId": "2040",
+    "Html": "\r\nThanks a lot!<br />^_^<br />",
+    "PostedDate": "2006-10-30T09:08:07.313-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "7487",
+    "ThreadId": "2040",
+    "Html": "\r\nThe guys at SharpDevelop did not answer my question. I have changed how the release will be compiled to make it work with SharpDevelop. There will be a new version in a couple of weeks. <br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2006-11-14T10:58:40.45-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "7541",
+    "ThreadId": "2040",
+    "Html": "\r\nIt seems they're very busy with the beta2 of sharpdevelop 2.1<br />I'm very happy you fixed it.<br />Thanx again.<br />By the way it is a very nice and good job!!!<br />Ciao :)<br />",
+    "PostedDate": "2006-11-15T08:41:59.757-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "50771",
+    "ThreadId": "2040",
+    "Html": "\r\nThe control doesn't display in the Designer in SharpDevelop 2.2 with the latest release of AscendNet controls.<br />",
+    "PostedDate": "2007-09-25T20:25:15.487-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

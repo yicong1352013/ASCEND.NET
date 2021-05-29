@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "3556",
+    "ThreadId": "1105",
+    "Html": "\r\nThis project is awesome to say the least.  <br /><br />Some controls to add to the wish list would be simlar to the ones found at http://divil.co.uk/net/<br /><br />SandRibbon<br />SandRibbon is a user interface suite designed to mimic the advanced controls seen in Microsoft Office 2007. Its features revolve around a Ribbon control, which presents a well-organised list of available commands, divided into logical groups with some groups displayed contextually. It is designed to plug in to your applications and serve as a replacement for the traditional menus and toolbars paradigm.<br /><br />SandGrid<br />A versatile grid that can operate bound and unbound against virtually any kind of data. Supporting true hierarchies and nested grids, it is an ideal replacement for such controls as the ListView, TreeView or DataGridView. It features sorting, grouping, editing, virtual rows and a number of other features to make displaying your data very easy. Its advanced text display engine ensures fast and responsive display of your data.<br /><br />SandDock<br />A comprehensive window management solution that brings flexible dockable windows and tabbed document management to your application. Give your users the flexibility to arrange your user interface how they like it while exposing a modern, stylish look and feel that mimics Visual Studio 2003, Office 2003 or Visual Studio 2005.<br /><br />Navisight<br />Navisight is a collection of controls to help navigation through your user interface and present tasks in a logical way. Its list controls allow display of data in a toolbox or in an Outlook-style sidebar, and its task controls help mimic the task panes seen in Explorer in Windows XP. A great design-time experience ensures the toolkit will be easily integrated in to your application.<br /><br />SandBar<br />An extremely powerful yet lightweight toolbar and menuing library. It boasts virtually all the features exposed by the Microsoft Office user interface including dockable toolbars and menus, task panes and statusbars. SandBar can mimic Office 2003, Office XP or Visual Studio 2005 and is fully configurable without having to write a single line of code.<br />",
+    "PostedDate": "2006-08-28T18:41:37.447-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3559",
+    "ThreadId": "1105",
+    "Html": "\r\nThe ribbon is scheduled for version 2.0. I need the tab control code scheduled for the next release to do it well.<br /><br />The dock is a possibility in version 2.0. The tabbed MDI is needed to do it. I do have a dock I wrote in .Net 1.1 but I had planned to redesign it to improve how some things were done. <br /><br />The ExplorerPane planned in the next version is a task pane. <br /><br />The grid could be done but would be a lot of work. The last one I wrote was in Java 5 years ago and it took most of my time for 6 months. Unless someone in the group would like to pick it up it would probably be a version 3 control.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-08-28T19:05:27.713-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3782",
+    "ThreadId": "1105",
+    "Html": "\r\nI think, the \"Repeater\" control would be more usefull than \"Grid\" control. It should be container control with basic creation and destruction functionality  of \"record controls\" and basic layout functionality - arrange \"record controls\" left to right, top to bottom.<br /><br />It would be very usefull for editing big count of complex data types.<br />",
+    "PostedDate": "2006-09-01T00:49:33.007-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3944",
+    "ThreadId": "1105",
+    "Html": "\r\nA repeater control can be done but the resource management would have to really be looked at. If we would just copy every control for each row it would be a lot of memory after a few hundred rows. We will try to think of a way around this.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-09-04T09:52:28.907-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

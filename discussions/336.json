@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "1016",
+    "ThreadId": "336",
+    "Html": "\r\nThis method does not include the action of removing the corresponding item of DisplayOrder in NavigationPane. The result is that there appear duplicate pages after Clear and Add the same named pages.<br />After add the following code in the method before clear the list. It works well.<br />            for (int i = 0; i &lt; this._list.Count; i++)<br />            {<br />                this._owner.PageRemoved(this<a href=\"http://www.codeplex.com/ASCENDNET/Wiki/View.aspx?title=i\">i</a>);<br />            }<br />",
+    "PostedDate": "2006-07-02T23:33:44.843-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1025",
+    "ThreadId": "336",
+    "Html": "\r\nThis discussion has been copied to Work Item 762. You may wish to continue further discussion there.<br />",
+    "PostedDate": "2006-07-03T07:23:27.727-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1026",
+    "ThreadId": "336",
+    "Html": "\r\nI added this to the work items. Thank you finding this and providing a solution.<br /><br />scorn<br />",
+    "PostedDate": "2006-07-03T07:26:12.143-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

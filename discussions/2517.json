@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "7917",
+    "ThreadId": "2517",
+    "Html": "\r\nHi<br />What is your timely plan for version 1.5 and 2.0 release.<br /><br />thanks<br />",
+    "PostedDate": "2006-11-22T04:35:15.19-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8015",
+    "ThreadId": "2517",
+    "Html": "\r\nThere will be a CTP available at the end of the month. This will have several new controls but not all of the new controls. There will be a second CTP at the end of December. This CTP will have all the version 1.5 controls available. The first beta will be mid January with a production release around the end of February.  Version 2 will start shortly after that. Unfortunately all these dates are relative to my day jobs work load.  I’m hoping my work load will be much lower than it has been for the last three months.<br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2006-11-23T07:44:36.917-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8232",
+    "ThreadId": "2517",
+    "Html": "\r\nnice answer<br /><br />thank you<br />",
+    "PostedDate": "2006-11-28T10:45:37.303-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "3667",
+    "ThreadId": "1147",
+    "Html": "\r\nHi!<br />I use Oracle.cs to call method:<br /><br />List&lt;SharpMap.Geometries.Geometry&gt; features = ora.GetGeometriesInView(bbox);<br /><br />(ora is a Obj of oracle.cs)<br /><br />when i run it, appear following error:<br /> -ORA-29532:Java call terminated by uncaught Java exception: java.lang.RuntimeException: oracle.spatial.GeometryExceptionWithContext<br /> -ORA-06512: at \"MDSYS.SDO_GEOMETRY\", line 107<br /> -ORAC-06512: at \"MDSYS.SDO_UTIL\", line 30<br /> -ORA-06512: at line 1<br /><br />I don't understand ary thing.<br />Please tell me how solve it!<br />",
+    "PostedDate": "2006-08-30T07:20:00.68-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3673",
+    "ThreadId": "1147",
+    "Html": "\r\nSorry, I think you are in the wrong project. You need the SharpMap project.<br />",
+    "PostedDate": "2006-08-30T08:19:11.833-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "Id": "533",
+    "ThreadId": "172",
+    "Html": "\r\nAfter this first version is out of beta I would like to add a Tabbed MDI control. Any interest?<br />",
+    "PostedDate": "2006-06-11T16:39:27.777-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "551",
+    "ThreadId": "172",
+    "Html": "\r\nSounds nice, perhaps even create a MDI 'framework'. Like in Visual Studio, where you can switch between MDI and SDI.<br />",
+    "PostedDate": "2006-06-14T02:20:15.88-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "560",
+    "ThreadId": "172",
+    "Html": "\r\nThat’s what I’m thinking also.  I’ve been using user controls placed on top of each other in the main form to get the same effect. It works but what a pain to maintain.<br />",
+    "PostedDate": "2006-06-14T19:50:57.71-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1101",
+    "ThreadId": "172",
+    "Html": "\r\nOff course!!!<br />",
+    "PostedDate": "2006-07-05T14:53:20.117-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1180",
+    "ThreadId": "172",
+    "Html": "\r\nI am looking for Tabbed MDI that:<br /><br />1, Allow me to change caption font.<br />2, Support Rendering unicode (complex script unicode) most control out there render text with GDI+ which is currently not meet this requirement.<br />",
+    "PostedDate": "2006-07-07T19:58:43.58-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1189",
+    "ThreadId": "172",
+    "Html": "\r\nI currently use GDI+ in the controls to render text. I saw the new TextRenderer class as more for automatic sizing of complex scripts. Do the current controls not render complex scripts correctly if you set the size large enough for them? If not I will change how I render text to the new class.<br />",
+    "PostedDate": "2006-07-08T05:30:30.307-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1192",
+    "ThreadId": "172",
+    "Html": "\r\nI added the complex script support to the existing controls today. I you are interested in a compiled install of beta 2 with this for testing just let me know. I will use this in the MDI tab.<br />",
+    "PostedDate": "2006-07-08T12:35:22.35-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1211",
+    "ThreadId": "172",
+    "Html": "\r\nDear Scorn,<br /><br />Thank for your first attemp unfortunately it not success.<br />It can not render our script correctly.<br />Please find my testing screenshot compare with normal label control rendering.&lt;br /&gt;<br />&lt;img src=\"http://www.sroksreonline.com/khmerunicode.gif\"&gt;<br />",
+    "PostedDate": "2006-07-09T19:18:47.427-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1212",
+    "ThreadId": "172",
+    "Html": "\r\nI think it is .net framework itself not support my script.<br />I am no expert in control development but I wonder can you just put the label control instead of rendering text ourself :D<br /><br />However I really love to use Ascend.NET and I am much appreciated if it support my script.<br />",
+    "PostedDate": "2006-07-09T19:25:37.163-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1213",
+    "ThreadId": "172",
+    "Html": "\r\nWas the failure to render the script in your image in the latest source code or the beta 1 install? <br /><br />If it was the latest source code you may be correct that the .Net framework may not support it. I posted in my blog in the news feeds tab what I did to try and support complex scripts.<br />",
+    "PostedDate": "2006-07-09T20:01:20.563-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1218",
+    "ThreadId": "172",
+    "Html": "\r\nI tried it with the 1.0.2 Alpha.<br />I tried to search in .net framework 3.0 to see it support utf8 text draw or not but no luck as well.<br />",
+    "PostedDate": "2006-07-10T01:02:51.48-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1226",
+    "ThreadId": "172",
+    "Html": "\r\nOK, I will look into how it is done in the label.<br />",
+    "PostedDate": "2006-07-10T06:36:02.007-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1584",
+    "ThreadId": "172",
+    "Html": "\r\nHi Scorn,<br /><br />Do you have any progress on this topic so far?<br /><br />Thanks,<br />kids<br />",
+    "PostedDate": "2006-07-26T23:22:16.647-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1597",
+    "ThreadId": "172",
+    "Html": "\r\nNo, unfortunately everything that I read says that the changes I made in beta 2 should have taken care of this. <br /><br />The .NET label implements its text render in the same way with the exception of when the FlatStyle is set to System. Does the .NET label render your scripts correctly when the FlatStyle is not set to System? <br /><br />Another thing to look at is if you have compiled the source code from this project and installed from the project you may need to copy the assemblies to the GAC manually. I keep the assembly build numbers the same between releases so that everyone does not have to constantly change their project references. A side affect of this is sometimes the installer decides not to update the assemblies in the GAC.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-07-27T06:58:32.363-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3850",
+    "ThreadId": "172",
+    "Html": "\r\nThe DockPanel suite provided by Weifen Luo (http://sourceforge.net/projects/dockpanelsuite/) is fairly complete. It also supports extenders to change the renderer. An example is provided at http://www.codeproject.com/vb/net/DockPanelSkin.asp<br />Perhaps extending DockPanel would be better than starting from scratch.<br />",
+    "PostedDate": "2006-09-02T05:40:47.323-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3890",
+    "ThreadId": "172",
+    "Html": "\r\nYes, they were doing good work. They seem to have stopped doing much at this point. I had not seen the skinning project on codeproject. <br /><br />I have a .Net 1.1 version that I wrote a couple of years ago. I want to clean up the design and use the current rendering classes so I won’t be starting from scratch. :-)<br /><br />I will look at the codeproject project and see if there are some ideas to use on the GradientTab control set for the 1.5 release. I plan to use that tab renderer on both the tabbed MDI and RibbonBar in 2.0.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-09-03T09:21:56.583-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

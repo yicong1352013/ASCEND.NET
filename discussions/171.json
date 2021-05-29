@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "531",
+    "ThreadId": "171",
+    "Html": "\r\nWhile opening the project its asking for password.Can i know the password please.<br /><br />Thanks,<br />Arabinda<br />",
+    "PostedDate": "2006-06-10T19:01:50.643-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "532",
+    "ThreadId": "171",
+    "Html": "\r\nI think the user and password it is asking for is to connect the Team System Server used for source control. This would be my user and password and I can't give that out.<br /><br />Cancel out of the dialogs until you get to the dialog that ask if you want to work disconnected or remove from source control. If you choose remove from source code you should be OK from then on.<br /><br />If that’s not it let me know.<br /><br />Thanks<br />",
+    "PostedDate": "2006-06-10T19:31:08.063-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

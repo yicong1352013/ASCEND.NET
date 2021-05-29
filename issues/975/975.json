@@ -1,0 +1,70 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientPanel",
+      "DisplayName": "GradientPanel"
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Do this as part of add RenderMode property.",
+    "LastUpdatedDate": "2013-02-14T12:12:25.907-08:00",
+    "PlannedForRelease": "1.5.x January CTP Alpha",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "Medium",
+      "Severity": 100,
+      "Id": 2
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-07-15T06:58:13.15-07:00",
+    "Status": {
+      "Name": "Active",
+      "Id": 2
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Build Warning(s) in GradientCaptionRender.cs",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 975
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Description: CA1502 : Microsoft.Maintainability : Render has a cyclomatic complexity of 62. Rewrite or refactor the method to reduce complexity to 25.\nFile: D:\\Personal\\Ascend\\Ascend.Windows.Forms\\GradientCaptionRender.cs\nLine:  334\nProject: Ascend.Windows.Forms\n\n",
+      "PostedDate": "2006-07-15T06:58:13.15-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-08-05T12:55:27.127-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-08-19T19:50:25.753-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-09-22T12:25:45.963-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2006-11-05T13:14:32.747-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-14T12:12:25.907-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

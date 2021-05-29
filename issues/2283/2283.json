@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "NavigationPane",
+      "DisplayName": "NavigationPane"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-08-20T09:57:41.887-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Add to expanding Footer property",
+    "LastUpdatedDate": "2017-11-27T13:01:46.467-08:00",
+    "PlannedForRelease": "1.x - 4 English Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-08-18T06:30:25.103-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add ImageKeyFooter property to NavigationPanePage",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 0,
+    "Id": 2283
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

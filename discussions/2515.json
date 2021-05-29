@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "7915",
+    "ThreadId": "2515",
+    "Html": "\r\nA TextBox which can include an Image-Button (e.g. to display a filter dialogue). See the Firefox and Thunderbird Search-Boxes for an example.<br />",
+    "PostedDate": "2006-11-22T03:28:52.367-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8021",
+    "ThreadId": "2515",
+    "Html": "\r\nI’ve been thinking about a complete set of edit controls. Next to the tab control I fight more with these stock .Net controls in my day job than any others. I also have a command manager that ties the edit controls to the UI and actions that I would like to improve.<br /><br />The next phase of my current project also needs tablet functionality in the edit controls. Maybe I can tie it all together as a set of controls. As always the time to get the controls to level of completeness so that they can be released to an international user base of different skill levels is the only real question.<br /><br />Thanks,<br />Scott<br /><br /><br /><br />",
+    "PostedDate": "2006-11-23T08:53:30.523-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

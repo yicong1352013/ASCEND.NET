@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GradientNavigationButton",
+      "DisplayName": "GradientNavigationButton"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-06-17T08:28:59.81-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:24.837-08:00",
+    "PlannedForRelease": "1.0.0.0 Alpha",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Medium",
+      "Severity": 100,
+      "Id": 2
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-06-17T08:00:30.09-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Better GradientNavigationButton control title text.",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 498
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "534",
+    "ThreadId": "173",
+    "Html": "\r\nAfter this first version is out of beta I would like to add a chart control. Any interest?<br />",
+    "PostedDate": "2006-06-11T16:41:01.087-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "740",
+    "ThreadId": "173",
+    "Html": "\r\nIs this 3d chart ???  <br />",
+    "PostedDate": "2006-06-23T05:31:03.82-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "741",
+    "ThreadId": "173",
+    "Html": "\r\nThe proof of concept version that I have now is not but I would like to do a 3D version for the challenge.<br />",
+    "PostedDate": "2006-06-23T06:08:42.56-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "748",
+    "ThreadId": "173",
+    "Html": "\r\nsound interest , actually building a chart as windows control will be really useful. <br />",
+    "PostedDate": "2006-06-24T05:09:43.027-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "7318",
+    "ThreadId": "173",
+    "Html": "\r\nThere has already been some excellent work done on some (in my opinion) great 2-D chart controls over at ZedGrpah and NPlot<br />http://zedgraph.org/<br />http://netcontrols.org/nplot/<br /><br />I consistenly use ZedGraph to visualize my scientific simulation results and love it.<br /><br />What is lacking though is support for 3-D graphs.  I'd suggest putting more emphasis on that if possible since 2-D charts already seem to be covered.  It's a tough topic though and would take a <i>lot</i> of effort to do it right.<br /><br /><br />",
+    "PostedDate": "2006-11-10T13:54:52.267-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8018",
+    "ThreadId": "173",
+    "Html": "\r\nI have a 2D chart control as well that I’ve not published. The 3D version will be a very cool thing to write. <br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2006-11-23T08:31:18.723-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "538",
+    "ThreadId": "177",
+    "Html": "\r\nit wasn't obvious to me what the password is.  Is there some page that is supposed to share this?<br /><br />marc<br />",
+    "PostedDate": "2006-06-12T10:38:12.28-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "539",
+    "ThreadId": "177",
+    "Html": "\r\nSorry for the trouble.  The strong name key files should not have had passwords on them. <br /><br />I have a new  source code check-in that has new files without passwords. I included the old files with a password of \"password\" if don’t want to have to change your references to the new key. You will need to change the file back to the old one under properties if you want to do this.<br /><br />Thanks<br />",
+    "PostedDate": "2006-06-12T11:07:17.03-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

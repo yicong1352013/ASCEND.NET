@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "NavigationPane",
+      "DisplayName": "NavigationPane"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-10-26T19:44:51.22-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "After upgrading to 1.0.0.6 and adding a new NavigationPanePage, I found that the Text property has disappeared.\n \nCan get around this by modifying the designer code directly.",
+    "LastUpdatedDate": "2013-05-16T02:19:00.367-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Medium",
+      "Severity": 100,
+      "Id": 2
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-10-26T18:20:57.31-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Text property missing from NavigationPanePage",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 4831
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

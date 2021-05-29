@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GadientAnimation",
+      "DisplayName": "GadientAnimation"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-06-17T19:30:26.42-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "",
+    "LastUpdatedDate": "2017-11-27T13:01:23.603-08:00",
+    "PlannedForRelease": "1.0.0.0 Alpha",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-06-16T14:37:35.237-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Border draw incorrect on right and bottom on GradientAnimation",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 485
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

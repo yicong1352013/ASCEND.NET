@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "1586",
+    "ThreadId": "525",
+    "Html": "\r\nHi <br /><br />Might be a stupid question, since I'm not so experinced with Winforms.<br /><br />I'm implementing an Application using the NavigationPane.<br /><br />Foreach NavigationPanePage I have implemented a small application, very much like the way Outlook works.<br /><br />The functionality I'm working at is when the user selects a new NavigationPanePage, I'll like to prompt the user to save/discard changes.<br /><br />My problem is that I'll like to user to be able to Cancel the action (to get back and do rework), so basically I'll like to stay on the previous NavigationPanePage (and ignore the fact that the user has selected another NavigationPanePage)<br />e.g. calling som method in the NavigationPage click handler to ignore further events.<br /><br /><br />Jakob<br />",
+    "PostedDate": "2006-07-27T03:40:00.58-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1592",
+    "ThreadId": "525",
+    "Html": "\r\nIn beta 2 we added Deselecting as an event on the NavigationPane. If you attach to this event you can use NavigationPaneCancelEventArgs.Cancel parameter to stop the selected button from becoming current.<br /><br />Example:<br /><br />private void navigationPane1_Deselecting(object sender, Ascend.Windows.Forms.NavigationPaneCancelEventArgs e)<br />        {<br />            DialogResult result = MessageBox.Show(this, \"Do you want to change tabs?\", \"Test\", MessageBoxButtons.YesNo, MessageBoxIcon.Question);<br /><br />            if (result == DialogResult.No)<br />            {<br />                e.Cancel = true;<br /><br />            }<br /><br />        }<br /><br />You could also just do any actions required for the currently focused button in this event before the new button is set as current and not cancel.<br /><br />Thanks,<br />scorn <br />",
+    "PostedDate": "2006-07-27T06:44:08.983-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1609",
+    "ThreadId": "525",
+    "Html": "\r\nThanks for the prompt reply this is exactly what I needed, works now like a charm.<br /><br />Is is a cool and very easy to use control :-)<br />",
+    "PostedDate": "2006-07-27T13:02:18.93-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1640",
+    "ThreadId": "525",
+    "Html": "\r\nThat’s no problem and thank you.<br />",
+    "PostedDate": "2006-07-28T07:28:39.51-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

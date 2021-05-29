@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "When the NavigationPane is resized to a height that is less than the height of all buttons combined, it displays...oddly. The easiest way to see this is to put a control on a form, add about 4 pages, and then run the form and shrink it vertically. Then do the same with Outlook 2007 and see how it behaves.\n \nA MinimumHeight property should probably be added to the NavigationPanePage class, or a MinimumPageHeight property to the NavigationPane class if you don't want to allow this to be set at the page level.",
+    "LastUpdatedDate": "2013-02-14T12:12:04.377-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2008-02-04T13:37:23.513-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Fix display behavior when nav pane is resized to a very short height",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 15038
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

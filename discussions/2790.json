@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "8757",
+    "ThreadId": "2790",
+    "Html": "\r\nI installed it to the default location of the installer do i need to install it somewere in the VC# folder, if not how do i get it to work,<br />thanks<br />",
+    "PostedDate": "2006-12-07T07:36:50.36-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8951",
+    "ThreadId": "2790",
+    "Html": "\r\nOnce you have successfully run the msi you will need to start Visual Studio 2005 and go to your toolbox tab. Right click in the toolbox and select “Add Tab”. At the flashing cursor type in the name you would like the tool to be under. I use “Ascend” but it doesn’t matter. Left click on this new tab to select it. Without left clicking anywhere else right click on the selected tab.  Select “Choose Items…”.  It takes a few moments but the Choose Toolbox Items dialog will show. In this dialog select the .NET Framework Components tab. In this tab there is a list of installed .NET controls. If you select the Namespace column to sort the items by namespace you should see all the controls under Ascend.Windows.Forms . Checking the box to the left will install the control. Press “OK” when you have everything you want checked. The controls should now be in your toolbox and ready to use.<br /><br />Thanks,<br />Scott<br /><br /><br />",
+    "PostedDate": "2006-12-11T15:33:05.377-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

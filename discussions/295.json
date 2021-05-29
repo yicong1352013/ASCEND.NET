@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "913",
+    "ThreadId": "295",
+    "Html": "\r\nHas anyone seen why if you apply a ColorMatirx to the DrawImage method the ImageAnimator fails to use the correct image in the stack?<br /><br />Basically the first image is always used. Without applying a ColorMatrix to DrawImage the correct image is used.<br />",
+    "PostedDate": "2006-06-29T07:24:07.933-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1385",
+    "ThreadId": "295",
+    "Html": "\r\nCan you post some code? I haven't had that issue ... <br />",
+    "PostedDate": "2006-07-17T12:51:51.687-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1685",
+    "ThreadId": "295",
+    "Html": "\r\nSorry, I missed that you had posted this. Here is the source code.<br /><br />ColorMatrix colorMatrix = new ColorMatrix();<br />colorMatrix.Matrix33 = (this.Alpha / 255.0f); //33 is alpha<br /><br />ImageAttributes imageAttributes = new ImageAttributes();<br /><br />…<br /><br />imageAttributes.SetColorMatrix(colorMatrix);<br /><br />It is in GradientCaptionRender.cs in the public override void Render(System.Windows.Forms.PaintEventArgs e) method. I figure their must be another setting in the color matrix that needs to be set but ColorMatrix is not well documented.<br /><br />Thanks,<br />scorn<br />",
+    "PostedDate": "2006-07-30T08:14:01.29-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

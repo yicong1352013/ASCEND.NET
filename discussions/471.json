@@ -1,0 +1,58 @@
+[
+  {
+    "Id": "1454",
+    "ThreadId": "471",
+    "Html": "\r\nHi,<br /><br />Great work with Beta 2. I like the new feature with the custom colors for the buttons.<br /><br />But would it not have been better to adjust the colors for the buttons in the NavigationPanePAge instead of doing it in the NavigationPane. Then every NavigationPanePage could have its own costum colour instead of all pages the same.<br /><br />The Imagelist for the Button and the footer imagelist should be 2 different  imagelist so the imagelist for buttons could handle 32x32 and the footer imagelist 16x16.<br /><br />these are only suggestions.<br /><br />I like the work you have been doing for now.<br /><br />regards <br /><br />Jorgen Hoffmeister<br />",
+    "PostedDate": "2006-07-20T12:41:53.113-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1459",
+    "ThreadId": "471",
+    "Html": "\r\nThank you.<br /><br />I was thinking we could add the properties to NavigationPanePage and use them if they differ from the Button properties in the NavigationPane. If the NavigationPane Button properties were change they would only be applied to a NavigationPanePage if the existing property value was equal to the old Button property value. This way the Button properties would be the default and you would still be able to customize each page button.<br /><br />An additional image list could be added. Most tools that I have used support an ImageListLarge and ImageListSmall. If only one is filled out would it be used for both? I think it should.<br /><br /> Just so you know the reasoning behind only having 1 is the Outlook icons are 24 x 24 and both the footer and button use the same size. Having two image lists would allow for more customization.<br /><br />Do you think we should support scaling of the images so that only 1 image would have to be created for both or do you think that would result in too dirty of an image? A direct example of this is the icons shown in the “Add Remove Buttons” menu.<br /><br />I guess now that I think of it I generally have to create a 16 x 16 image for the menu and toolbar when I use this control.<br />",
+    "PostedDate": "2006-07-20T14:37:52.37-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1460",
+    "ThreadId": "471",
+    "Html": "\r\nHi Scorn,<br /><br />The way you wan't to implement the Button Color customization sounds great for me.<br /><br />The thing about handling two ImageLists is because what I can see in Office 2007 the Images in the footer are smaller than the one on the button. I think it will get better with two ImageLists instead of using scaling. Scaling is not good.<br /><br />I have been working with the control tonight and I found that the color for the Text on the buttons can't be changed. That would be a nice feature too. It will only show black text.<br /><br /><br />Regards <br /><br />Jorgen Hoffmeister<br />",
+    "PostedDate": "2006-07-20T15:41:26.51-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1461",
+    "ThreadId": "471",
+    "Html": "\r\nWow...<br />You are correct I missed the ForeColor. I'm not sure how I did that.<br />",
+    "PostedDate": "2006-07-20T16:01:32.87-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1479",
+    "ThreadId": "471",
+    "Html": "\r\nJeff,<br />I added the ForeColor property to the beta 3 code.<br />",
+    "PostedDate": "2006-07-21T10:16:53.87-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1482",
+    "ThreadId": "471",
+    "Html": "\r\nGreat I will look into that when the beta 3 is released.<br /><br />regards<br /><br />Jorgen<br />",
+    "PostedDate": "2006-07-21T13:35:45.97-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1492",
+    "ThreadId": "471",
+    "Html": "\r\nSorry Jorgen I confused you with a Jeff that I correspond with. :-)<br />",
+    "PostedDate": "2006-07-22T09:59:59.56-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

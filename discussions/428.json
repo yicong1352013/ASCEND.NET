@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1329",
+    "ThreadId": "428",
+    "Html": "\r\nI will be releasing beta 2 of “Ascend.NET” Windows Forms Controls on Sunday 7/16. <br /><br />I’m thinking of adding an additional beta to the release schedule. I’m still working on automatically adding the controls and help to Visual Studio. I could add these to the release candidate but I would also like to add the “glass” look to the controls on this version rather than 1.5. The controls we are adding in version 1.5 will take 2 -3 months to get done and I hate to not have this feature for that long.<br /><br />Any opinions on adding an additional beta and delaying the production release for a short bit?<br /><br />Thanks,<br />scorn<br />",
+    "PostedDate": "2006-07-13T13:29:12.347-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1371",
+    "ThreadId": "428",
+    "Html": "\r\nI delayed beta 2 for 3 more days to work out some bugs and add a few more features. Sorry for the delay.<br />",
+    "PostedDate": "2006-07-16T19:23:37.19-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

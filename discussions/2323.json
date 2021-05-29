@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "7338",
+    "ThreadId": "2323",
+    "Html": "\r\nEither this is really easy or it can't be done. When I use the GradientSplitBar control in conjunction with a standard SplitContainer it only docks in one of the containers and never falls in the middle. Hence the user sees the bar but it the drag band is either below it or above it and never on it....<br /><br />Is it possible to place it between the containers? Or should I be using the GradientSplitContainer and if so what is its process?<br /><br />advTHANKSance<br />",
+    "PostedDate": "2006-11-11T13:42:15.307-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "7485",
+    "ThreadId": "2323",
+    "Html": "\r\nSorry to be so silent lately. I just keep getting projects/changes/tasks heaped on me in my day job.<br /><br />The Microsoft split container will not allow anything to be placed in the split area. I do have a new splitter (gradient) control that is pretty much done that will be released in a couple of weeks. I’ve not heard from sebmafate on his split container. <br /><br />Thanks,<br />Scott<br />",
+    "PostedDate": "2006-11-14T10:54:24.72-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

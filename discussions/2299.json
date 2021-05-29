@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "7265",
+    "ThreadId": "2299",
+    "Html": "\r\nHi,<br />there's something left I really need: a multi-column ComboBox with data binding. It would be great, if you could add it to the todo list. I use this one: http://www.codeproject.com/vb/net/MultiColumnFlatCombo.asp<br /><br />Best regards, Metal-Frog<br />",
+    "PostedDate": "2006-11-10T01:14:29.067-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1131602",
+    "ThreadId": "2299",
+    "Html": "<a href=\"http://www.kettic.com/winforms_ui/csharp_guide/multi_column_combobox_data_binding.shtml\" rel=\"nofollow\">Bind Multi-Column ComboBox to data source</a><br />\n",
+    "PostedDate": "2013-12-04T01:58:43.02-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

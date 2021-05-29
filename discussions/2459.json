@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "7739",
+    "ThreadId": "2459",
+    "Html": "\r\nHi,<br /><br />I'm very interested in control's smart task from VS2005. When I saw your project (Ascend.NET), I assume that it can be made programmatically (Am I right? ). So, I'd like to know how to make smart task and place it on an usercontrol. Can you give an simple example of how to make it ? Or can you give me reference to any site that can give tutorial or something ? I've tried to search in MSDN, but no luck until now.<br />I'm currently using VB2005 as my main language, but I can read simple C# language.<br /><br />Thanks before<br /><br />Michael<br />",
+    "PostedDate": "2006-11-19T20:50:23.717-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8016",
+    "ThreadId": "2459",
+    "Html": "\r\nThe smart task panel is a product of the class referenced by the Designer attribute placed on a control. Additionally this designer class has an additional class that is referenced internally inherited from the DesignerActionList class. This class is what tells Visual Studio what should be shown in the smart tasks window. If you download the source for this project you will see these classes under the Ascend.Design project.<br /><br />Here is a link to an article that is a good reference http://msdn.microsoft.com/msdnmag/issues/05/07/DesignerActions/default.aspx .<br /><br />I can’t say that I’ve added a smart task to a user control just custom controls. It does seem like it could be done. <br /><br />Take a look at the article and let me know what I could clarify for you.<br /><br />Thanks,<br />Scott <br /><br /><br />",
+    "PostedDate": "2006-11-23T08:12:46.07-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "8143",
+    "ThreadId": "2459",
+    "Html": "\r\nYes. That's what I need for. Thanks for your reply. Didn't know that it named smart tag (I tought it was smart task).<br /><br />Regards<br /><br />Michael<br />",
+    "PostedDate": "2006-11-26T22:02:15.397-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

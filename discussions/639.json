@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1999",
+    "ThreadId": "639",
+    "Html": "\r\nBeta 3 is now released!<br /><br />To install the tools just download and run Ascend.Install.msi and follow the prompts. Visual Studio should be closed while installing.<br /><br /><br />If you have been using an older version of the controls keep in mind that you will need to update your project references to point to the Ascend assemblies version 1.0.0.3 . The install will leave the old version(s) in place to keep your projects from breaking. If you have older version of the controls in the Visual Studio toolbox you will also need to remove them and then add the beta 3 controls.The older version(s) can be un-installed after you decide you no longer need it.<br /><br /><br />There are no known breaking changes between beta 2 and this release.<br /><br /><br />",
+    "PostedDate": "2006-08-07T09:56:26.997-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

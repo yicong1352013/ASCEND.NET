@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "3472",
+    "ThreadId": "1069",
+    "Html": "\r\nShishir is looking into unit testing for version 1.5. I think not currently having unit tests as part of the project is a real shortcoming. Not everyone in the development group has the built in Visual Studio 2005 unit testing. Right now he is looking into MBUnit and NUnit. <br />",
+    "PostedDate": "2006-08-27T09:59:50.94-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "6996",
+    "ThreadId": "1069",
+    "Html": "\r\nI think that's a great idea too.<br /><br />I've used NUnit and had pretty good luck with it.  Unit testing has saved me lots of time debugging.<br /><br />Actually, there is a whole TestDriven.NET suite that includes NUnit, MBUnit, and NCoverExplorer.  It's excellent and highly recommended.<br />http://www.testdriven.net/<br />It's free for personal use and has tight integration with Visual Studio 2005.<br /><br />NCover (and the GUI NCoverExplorer) are great because they will tell you how good your unit tests are by showing you how many lines of code each test invokes (covers).  Ideally your unit tests should cause each line of code to execute, and NCover will show if your unit tests are that thorough.<br /><br />I could get a unit test project added to the solution if you want.<br /><br />-Matt<br /><br /><br />",
+    "PostedDate": "2006-11-05T15:11:31.513-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "7390",
+    "ThreadId": "1069",
+    "Html": "\r\nDoing unit testing on a Windows Form library presents a number of difficulties because the unit tests must interact with the graphical interface.<br /><br />I did a litle research and found an NUnit extension called NUnitForms that aims to make this easier.<br />http://nunitforms.sourceforge.net/<br /><br />What are the main items that need to be tested?<br /><br />",
+    "PostedDate": "2006-11-13T04:41:50.33-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "7484",
+    "ThreadId": "1069",
+    "Html": "\r\nI don’t know that I have any specific area to test. I juts think that the more we can automate the testing the better the end product will be. I agree that the visual part of the controls are very hard to automate and unfortunately because of what the controls are most of the testing would need to be visual. <br /><br />I would say we automate the unit testing as much as we reasonably can and go from there. Any research/input you can give on the visual unit testing tool would be appreciated.<br /><br />Thanks, <br />Scott<br />",
+    "PostedDate": "2006-11-14T10:48:51.183-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

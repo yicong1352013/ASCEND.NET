@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "87190",
+    "ThreadId": "26059",
+    "Html": "\r\nA control that I feel is much needed is what I call a Search Group Control.  Take a look at, say, Contacts in Outlook 2007.  If you click the expand/collapse icon near the \"Search Contacts\" box at the top right, an orangeish-colored form drops down with additional search fields, and the title bar lights up orange as well.  Encapsulating that functionality would be nice...I think it was one of the best additions to the Office UI.   I've managed to implement this control using DevExpress's components, and it wasn't trivial.  I even implemented a search service that broadcasts an ISearchRequested in order to provide a way for the module (in which the search was requested) to to light up orange various other of its elements in the UI, providing further disclosure as to what is being search (again, as in Outlook 2007).<br /><br />Thanks for your consideration.<br /><br />Eric<br />",
+    "PostedDate": "2008-04-16T11:25:55.233-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

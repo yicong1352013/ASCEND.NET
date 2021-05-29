@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "GadientAnimation",
+      "DisplayName": "GadientAnimation"
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2006-07-03T12:24:09.62-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Missed this in beta 1",
+    "LastUpdatedDate": "2017-11-27T13:01:30.023-08:00",
+    "PlannedForRelease": "1.x - 2 Beta",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "ASCENDNET",
+    "ReportedDate": "2006-07-02T15:06:21.783-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Set default border color to ActiveCaption on GradientAnimation",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 0,
+    "Id": 745
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

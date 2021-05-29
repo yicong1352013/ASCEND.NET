@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "91402",
+    "ThreadId": "27408",
+    "Html": "\r\nHallo together,<br /><br /><br />i use Visual Basic 2008 Express and i can´t find an install file (like *.msi or other) in your project. How can i install the controls?<br /><br />Sincerely<br />Lars<br />",
+    "PostedDate": "2008-05-09T01:45:26-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "91403",
+    "ThreadId": "27408",
+    "Html": "<br /><div class=\"quote\" style=\"border: dotted .1em #aaa; border-left: none; border-right: none; font-style: italic; margin: 1em 0em 2.5em 3em;padding: .2em;\"><br />LarsThorwald wrote:<br />Hallo together,<br /><br /><br />i use Visual Basic 2008 Express and i can´t find an install file (like *.msi or other) in your project. How can i install the controls?<br /><br />Sincerely<br />Lars<br /><br /></div><br />I was blind. I have downloaded the source code instead the releases ;-)<br /><br />",
+    "PostedDate": "2008-05-09T01:57:25.76-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

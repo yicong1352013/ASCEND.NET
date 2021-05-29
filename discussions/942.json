@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "3060",
+    "ThreadId": "942",
+    "Html": "\r\nI postponed release candidate 1 and added beta 4. There was a reported bug (issue 2326 “Problem with resizing on NavigationPane”) that required a fundamental change in NavigationPane. We have this bug fixed but we need some more testing before it is released.  I rather know it is right than to meet a self imposed deadline.<br /><br />Beta 4 is scheduled for release on 8/27/2006 but depending on how the week goes it may be sooner.<br /><br />Sorry for the delay.<br /><br />Thanks,<br />Scorn<br />",
+    "PostedDate": "2006-08-21T08:13:52.967-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "3181",
+    "ThreadId": "942",
+    "Html": "\r\nBeta 4 is released now.:-)<br />",
+    "PostedDate": "2006-08-22T20:46:54.617-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]
